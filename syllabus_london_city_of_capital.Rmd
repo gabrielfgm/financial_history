@@ -1,0 +1,180 @@
+---
+title: "Syllabus"
+subtitle: "London, City of Capital, 1825-2008"
+author: "Dr. Gabriel Geisler Mesevage"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_html: default
+  rmarkdown::html_document:
+        theme: null
+        highlight: null
+        mathjax: null
+  tufte::tufte_handout:
+    latex_engine: xelatex
+bibliography: capital.bib
+link-citations: yes
+csl: history_and_theory.csl
+citecolor: blue
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, 
+                      echo = FALSE, results = "asis")
+options(htmltools.dir.version = FALSE)
+```
+
+# Semester 1
+
+## 1. Economic and Financial History: An introduction to key concepts
+
+The course will start by providing some background on the themes we will 
+be covering. For the lecture, I will try to place the capital market into
+long-run perspective and discuss speculative movements. For the primary 
+sources, we will reflect on how to read this material.
+
+## General readings
+
++ [[@kindlebergerManiasPanicsCrashes1996]](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5180973&ppg=47) Chapter 2 on the anatomy of financial crises
++ [[@orourkeEconomicHistoryContemporary2019]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/616A2B63EDFDE212193C324157498179/S0022050719000044a.pdf/economic_history_and_contemporary_challenges_to_globalization.pdf)
+
+## Primary sources
+
++ [[@duguidHowReadMoney1902]](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. It's a useful guide to reading some of the other primary sources in the course.]
+
+# International Lending Booms
+
+We will spend a few weeks on international lending booms and contractions
+and their role in generating crises and political and economic
+response. We will begin with the 1825 crisis, which emerged out of
+a boom in international lending driven by the end of the Napoleonic
+Wars and the growth of independent republics in particular in 
+Latin America.
+
+## 2. Lending money abroad: the global sovereign debt crisis of 1825
+
+## General Readings
+
++ [[@pettisVolatilityMachineEmerging2001]]() Chapter 4
++ [[@nealFinancialCrisis18251998]](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
++ [[@jenksMigrationBritishCapital1927]](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression]
++ [[@clavel_2020]](https://doi.org/10.1017/eso.2020.25)^[This is a recent reinterpretation of the Poyais scheme.]
+
+## Primary Sources
+
++ Please read the section in Thomas Took's book on the history of prices
++ You will read the pamphlet written by Benjamin Disraeli touting South American mining companies
+
+## 3. The aftermath of sovereign debt crises: bondholder committees and international politics
+
++ [@flandreauSovereignStatesBondholders2013]
+
+## 4. The Baring Crisis
+
++ [[@floresInformationAsymmetriesConflict2011]]
+
+## 5. The interwar crisis and sudden-stops: the mechanics of the payment network
+
++ [[@accominottiMotherAllSudden2016]](https://doi.org/10.1111/ehr.12128)
+
+## 6. The Great Recession and transatlantic flows
+
++ [@toozeCrashedHowDecade2018]
+
+# Regulation and Innovation
+
+## 7. The railway mania of 1845 and crisis of 1847
+
+## General Readings
+
++ [@campbellGovernmentPolicyBritish2014]
++ [@odlyzkoCollapseRailwayMania2011]
+
+## Primary Sources
+
++ A satirical short-story about company promotion 'How we got up the Glenmutchkin'
++ A short and sure guide to the investing public
++ Maybe some articles -- e.g. the newspapers?
+
+
+## 8. The development of the joint-stock corporation
+
++ [@taylorCreatingCapitalismJointstock2006]
++ Parliamentary enquiries
++ Spencer maybe on railway morals?
++ Share prices!
+
+## 9. The investing public
+
++ [@rutterfordWhoComprisedNation2011]
++ For primary sources force them into the hard stuff
+  - Probate records
+  - Subscription lists
+  - memoire?
+
+## 9. Mortgage mania
+
++ Those ridiculous renovation shows
++ Marketing materials from Northern Rock maybe?
+
+## 10. Dissertation Chat
+
+# Semester 2
+
+# Banking Crises
+
+## 11. The London money market and the crisis of 1866
+
++ Can I get discount window sources?
++ Bagehot
+
+## 12. Bank of England in 2008
+
++ [[@gortonSlappedFaceInvisible2009]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1401882)
+
+# The stock exchange
+
+## 13. The growth and development of the London Stock Exchange in the 19th century
+
++ [@taylorOutsideLondonStock2020]
++ [@nealEvolutionStructurePerformance2006]
+
+## 14. The Big Bang
+
++ Oral history archive
+
+# Currencies
+
+## 15. The 'classic' Gold Standard
+
++ [@eichengreenGlobalizingCapitalHistory2008] Chapter on the Classical Gold Standard
++ [[@redishEvolutionGoldStandard1990]](https://doi.org/10.1017/S0022050700037827)
++ Ricardo for primary sources
+
+## 16. The interwar crisis
+
++ Keynes, Mantoux
++ Cunliffe report
+
+## 15. Decolonization and the pound
+
++ Read maybe Balachandran
++ [@ogleFunkMoneyEnd2020]
++ Maylis (if her article is ready) and Schenk
+
+## 16. Snake, Tunnel, Eurodollar, Exorbitant priviledge
+
++ Maybe Schenk?
++ Also Eichengreen book
+
+## 17. Dissertation chat
+
+## 18. The Great Recession 
+
+## 19. The Great Recession
+
+## 20. Exam Review
+
+## Bibliography
+
