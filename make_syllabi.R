@@ -5,7 +5,7 @@ rmarkdown::render("syllabus_london_city_of_capital.Rmd",
                   output_file = "index.html")
 
 rmarkdown::render("syllabus_london_city_of_capital.Rmd", 
-                  output_format = "html_document")
+                  output_file = "moodle_html_syllabus.html")
 
 rmarkdown::render("syllabus_london_city_of_capital.Rmd", 
                   output_format = "tufte_handout", 

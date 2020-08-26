@@ -4,11 +4,11 @@ subtitle: "London, City of Capital, 1825-2008"
 author: "Dr. Gabriel Geisler Mesevage"
 date: "`r Sys.Date()`"
 output:
-  tufte::tufte_html: default
   rmarkdown::html_document:
         theme: null
         highlight: null
         mathjax: null
+  tufte::tufte_html: default
   tufte::tufte_handout:
     latex_engine: xelatex
 bibliography: capital.bib
