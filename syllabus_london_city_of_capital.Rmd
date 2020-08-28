@@ -25,23 +25,20 @@ knitr::opts_chunk$set(tidy = FALSE,
 options(htmltools.dir.version = FALSE)
 ```
 
-# Semester 1
-
 ## 1. Economic and Financial History: An introduction to key concepts
 
-The course will start by providing some background on the themes we will 
+The first class will start by providing some background on the themes we will 
 be covering. For the lecture, I will try to place the capital market into
 long-run perspective and discuss speculative movements. For the primary 
-sources, we will reflect on how to read this material.
+sources, we will reflect on how to read this material. We will also take
+some time to look at the databases that exist that could be helpful in
+this area.
 
 ## General readings
 
 + [[@kindlebergerManiasPanicsCrashes1996]](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5180973&ppg=47) Chapter 2 on the anatomy of financial crises
-+ [[@orourkeEconomicHistoryContemporary2019]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/616A2B63EDFDE212193C324157498179/S0022050719000044a.pdf/economic_history_and_contemporary_challenges_to_globalization.pdf)
-
-## Primary sources
-
-+ [[@duguidHowReadMoney1902]](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. It's a useful guide to reading some of the other primary sources in the course.]
++ [[@eichengreenFinancialHistoryHistorical]](http://doi.org/10.1353/cap.2019.0003)
++ [[@lamoreauxFutureEconomicHistory2015]](https://www.cambridge.org/core/product/identifier/S0022050715001679/type/journal_article)
 
 # International Lending Booms
 
@@ -63,16 +60,16 @@ Latin America.
 
 ## Primary Sources
 
-+ Please read the section in Thomas Took's book on the history of prices
-+ You will read the pamphlet written by Benjamin Disraeli touting South American mining companies
++ [[@tookeHistoryPricesVol1838]](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
++ [[@disraeliInquiryPlansProgress1825]](http://hdl.handle.net/2027/mdp.39015063950995) read up to page 21 and then skim a section on one country of your choice.^[Disraeli was involved in speculation in South America with an investor named J. D. Powles who also commissioned him to write this promotional pamphlet.]
 
 ## 3. The aftermath of sovereign debt crises: bondholder committees and international politics
 
-+ [@flandreauSovereignStatesBondholders2013]
++ [[@flandreauSovereignStatesBondholders2013]](https://doi.org/10.1093/oxrep/grt031)
 
 ## 4. The Baring Crisis
 
-+ [[@floresInformationAsymmetriesConflict2011]]
++ [[@floresInformationAsymmetriesConflict2011]](https://www.cambridge.org/core/article/information-asymmetries-and-conflict-of-interest-during-the-baring-crisis-188018901/F7A751A4AC3D90669DFD370A387D3E9C)
 
 ## 5. The interwar crisis and sudden-stops: the mechanics of the payment network
 
@@ -83,6 +80,15 @@ Latin America.
 + [@toozeCrashedHowDecade2018]
 
 # Regulation and Innovation
+
+Under this heading we are going to consider several waves of domestic
+investment that resulted in asset price bubbles. We are also
+going to consider the evolution of corporate regulation and
+how regulatory change and investment behavior are historically
+linked. We will also examine how investors have informed
+themselves, or been misled, by newspapers and rating agencies. 
+And finally, we will spend a week looking at what we know
+about the characteristics of British investors.
 
 ## 7. The railway mania of 1845 and crisis of 1847
 
@@ -100,81 +106,115 @@ Latin America.
 
 ## 8. The development of the joint-stock corporation
 
+### General readings
+
 + [@taylorCreatingCapitalismJointstock2006]
+
+### Primary sources
+
 + Parliamentary enquiries
 + Spencer maybe on railway morals?
 + Share prices!
 
-## 9. The investing public
+## 9. The media and company promotion
 
-+ [@rutterfordWhoComprisedNation2011]
+### General Readings
+
+### Primary sources
+
++ [[@duguidHowReadMoney1902]](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. It's a useful guide to reading some of the other primary sources in the course.]
+
+## 10. Rating agencies, credit default swaps and financial surveillance
+
+## 11. The investing public
+
+## General readings
+
++ [[@rutterfordWhoComprisedNation2011]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0289.2010.00539.x)
++ [[@newtonFemaleInvestorsFirst2006]](https://www.tandfonline.com/doi/full/10.1080/09585200600756316)
+
+
 + For primary sources force them into the hard stuff
   - Probate records
   - Subscription lists
   - memoire?
 
-## 9. Mortgage mania
+## 12. Mortgage mania
 
 + Those ridiculous renovation shows
 + Marketing materials from Northern Rock maybe?
 
-## 10. Dissertation Chat
-
-# Semester 2
+## 13. Dissertation Chat
 
 # Banking Crises
 
-## 11. The London money market and the crisis of 1866
+Banking crises are a particularly dangerous and severe 
+financial event. Often, even the suspicion of a banking crisis
+can prove enough to precipitate one. We will spend two
+weeks on them. First, we will consider the historical 
+development of central bank doctrine to respond to 
+banking crises. Second, we will look at the banking crisis
+in the inter-bank market that emerged in 2008.
+
+## 14. The London money market and the crisis of 1866
 
 + Can I get discount window sources?
 + Bagehot
 
-## 12. Bank of England in 2008
+## 15. Bank of England in 2008
 
 + [[@gortonSlappedFaceInvisible2009]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1401882)
 
 # The stock exchange
 
-## 13. The growth and development of the London Stock Exchange in the 19th century
+We will spend two weeks on the London Stock Exchange (LSE)
+
+## 16. The growth and development of the London Stock Exchange in the 19th century
 
 + [@taylorOutsideLondonStock2020]
 + [@nealEvolutionStructurePerformance2006]
 
-## 14. The Big Bang
+## 17. The Big Bang
 
-+ Oral history archive
+## General readings
+
++ [[@attardMakingMarketJobbers2000]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27B5A3F3C440C45D2B633E603C80C185/S0968565000000019a.pdf/making_a_market_the_jobbers_of_the_london_stock_exchange_18001986.pdf)
+
+## Primary sources
+
++ [[@attardLondonStockExchange]](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick two interviews and listen to them or read transcript
 
 # Currencies
 
-## 15. The 'classic' Gold Standard
+## 18. The 'classic' Gold Standard
 
 + [@eichengreenGlobalizingCapitalHistory2008] Chapter on the Classical Gold Standard
 + [[@redishEvolutionGoldStandard1990]](https://doi.org/10.1017/S0022050700037827)
 + Ricardo for primary sources
 
-## 16. The interwar crisis
+## 19. The interwar crisis
 
 + Keynes, Mantoux
 + Cunliffe report
 
-## 15. Decolonization and the pound
+## 20. Decolonization and the pound
 
 + Read maybe Balachandran
 + [@ogleFunkMoneyEnd2020]
 + Maylis (if her article is ready) and Schenk
 
-## 16. Snake, Tunnel, Eurodollar, Exorbitant priviledge
+## 21. Snake, Tunnel, Eurodollar, Exorbitant priviledge
 
 + Maybe Schenk?
 + Also Eichengreen book
 
-## 17. Dissertation chat
+## 22. Dissertation chat
 
-## 18. The Great Recession 
+## 23. The Great Recession 
 
-## 19. The Great Recession
+## 24. The Great Recession
 
-## 20. Exam Review
+## 25. Exam Review
 
 ## Bibliography
 
