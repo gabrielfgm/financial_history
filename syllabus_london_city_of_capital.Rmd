@@ -63,13 +63,22 @@ Latin America.
 + [[@tookeHistoryPricesVol1838]](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
 + [[@disraeliInquiryPlansProgress1825]](http://hdl.handle.net/2027/mdp.39015063950995) read up to page 21 and then skim a section on one country of your choice.^[Disraeli was involved in speculation in South America with an investor named J. D. Powles who also commissioned him to write this promotional pamphlet.]
 
-## 3. The aftermath of sovereign debt crises: bondholder committees and international politics
+## 3. The aftermath of sovereign debt crises
 
 + [[@flandreauSovereignStatesBondholders2013]](https://doi.org/10.1093/oxrep/grt031)
 
 ## 4. The Baring Crisis
 
+
+## General readings
+
 + [[@floresInformationAsymmetriesConflict2011]](https://www.cambridge.org/core/article/information-asymmetries-and-conflict-of-interest-during-the-baring-crisis-188018901/F7A751A4AC3D90669DFD370A387D3E9C)
++ [[@dellapaoleraStrainingAnchorArgentine2001]](https://www.nber.org/chapters/c8837.pdf)
+
+
+## Primary sources
+
+
 
 ## 5. The interwar crisis and sudden-stops: the mechanics of the payment network
 
