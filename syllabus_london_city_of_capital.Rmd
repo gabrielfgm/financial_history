@@ -73,11 +73,28 @@ Latin America.
 ## General readings
 
 + [[@floresInformationAsymmetriesConflict2011]](https://www.cambridge.org/core/article/information-asymmetries-and-conflict-of-interest-during-the-baring-crisis-188018901/F7A751A4AC3D90669DFD370A387D3E9C)
-+ [[@dellapaoleraStrainingAnchorArgentine2001]](https://www.nber.org/chapters/c8837.pdf)
++ [[@dellapaoleraMonetaryFinancialWreck2001]](https://www.nber.org/chapters/c8837.pdf)
 
 
 ## Primary sources
 
+We will be looking at the Barings Archive for sources on the
+Argentine crisis of 1890. In addition to the below, you will go
+to the [online holdings of the Barings Archive](https://baring.access.preservica.com/archive/) and select
+2 documents of your choice. This will likely involve a lot of
+searching. There is correspondance in French (Barings to Argentine
+Government), Spanish (Argentine Government to Barings), and 
+German (consortium banks to Barings) in addition to English 
+so feel free to make use of any special language skills if you
+like.
+
++ [[@CorrespondenceDiscontoGesellschaft]](https://baring.access.preservica.com/uncategorized/IO_b436c123-97cd-42f2-a3c7-aed0cdbbffec/?view=gallery)
++ [[@SchemeConversionArgentine1888]](https://baring.access.preservica.com/uncategorized/IO_baeb649b-dbe3-46c5-9d0c-afb75887c7a2/)
++ [[@ProposalArgentineGovernment]](https://baring.access.preservica.com/uncategorized/IO_fabf01ef-16ac-4d52-80f6-8ed5a8add171/?view=gallery)
++ [[@CorrespondenceGeorgeWhite]](https://baring.access.preservica.com/uncategorized/SO_4177cba6-61a1-46a7-8c10-148bf2e2d464/)
++ [[@TelegramDiscontoGesellschaft1889]](https://baring.access.preservica.com/uncategorized/SO_77f5601d-3087-4905-8c42-194218d3cbc2/)
++ [[@DraftResponseLuis1893]](https://baring.access.preservica.com/uncategorized/IO_dd0844b9-214a-4f86-9cd3-ffaf91ed6e25/?view=gallery)
++ [[@CorrespondanceFosterBraithwaite]](https://baring.access.preservica.com/uncategorized/IO_7627b2eb-bbbc-44db-9eb2-1713862658af/?view=gallery)
 
 
 ## 5. The interwar crisis and sudden-stops: the mechanics of the payment network
@@ -108,9 +125,8 @@ about the characteristics of British investors.
 
 ## Primary Sources
 
-+ A satirical short-story about company promotion 'How we got up the Glenmutchkin'
-+ A short and sure guide to the investing public
-+ Maybe some articles -- e.g. the newspapers?
++ [[@aytounHowWeGot1845]](http://www.dtc.umn.edu/~odlyzko/rrsources/glen6.pdf)^[The text is reproduced on Andrew Odlyzko's website. He has supplied a helpful introduction which you should also read.]
++ [[@anon.ShortSureGuide1847]](https://link.gale.com/apps/doc/U0106715654/MOME?u=ull_ttda&sid=MOME&xid=f232123e)
 
 
 ## 8. The development of the joint-stock corporation
@@ -180,8 +196,14 @@ We will spend two weeks on the London Stock Exchange (LSE)
 
 ## 16. The growth and development of the London Stock Exchange in the 19th century
 
+## General Readings
+
 + [@taylorOutsideLondonStock2020]
 + [@nealEvolutionStructurePerformance2006]
+
+## Primary Sources
+
++ 
 
 ## 17. The Big Bang
 
