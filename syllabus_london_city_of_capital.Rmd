@@ -14,7 +14,7 @@ output:
   tufte::tufte_handout:
         latex_engine: xelatex
 bibliography: capital.bib
-link-citations: yes
+link-citations: no
 csl: history_and_theory.csl
 citecolor: blue
 ---
@@ -38,9 +38,9 @@ this area.
 
 **General readings**
 
-+ [[@kindlebergerManiasPanicsCrashes1996]](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5180973&ppg=47) Chapter 2 on the anatomy of financial crises
-+ [[@eichengreenFinancialHistoryHistorical]](http://doi.org/10.1353/cap.2019.0003)
-+ [[@lamoreauxFutureEconomicHistory2015]](https://www.cambridge.org/core/product/identifier/S0022050715001679/type/journal_article)
++ [@kindlebergerManiasPanicsCrashes1996] [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5180973&ppg=47) Chapter 2 on the anatomy of financial crises
++ [@eichengreenFinancialHistoryHistorical] [link](http://doi.org/10.1353/cap.2019.0003)
++ [@lamoreauxFutureEconomicHistory2015] [link](https://www.cambridge.org/core/product/identifier/S0022050715001679/type/journal_article)
 
 # International Lending Booms
 
@@ -55,27 +55,27 @@ Latin America.
 
 **General Readings**
 
-+ [[@pettisVolatilityMachineEmerging2001]]() Chapter 4
-+ [[@nealFinancialCrisis18251998]](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
-+ [[@jenksMigrationBritishCapital1927]](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression]
-+ [[@clavel_2020]](https://doi.org/10.1017/eso.2020.25)^[This is a recent reinterpretation of the Poyais scheme.]
++ [@pettisVolatilityMachineEmerging2001] [link]() Chapter 4
++ [@nealFinancialCrisis18251998] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
++ [@jenksMigrationBritishCapital1927] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression.]
++ [@clavel_2020] [link](https://doi.org/10.1017/eso.2020.25)^[This is a recent reinterpretation of the Poyais scheme.]
 
 **Primary Sources**
 
-+ [[@tookeHistoryPricesVol1838]](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
-+ [[@disraeliInquiryPlansProgress1825]](http://hdl.handle.net/2027/mdp.39015063950995) read up to page 21 and then skim a section on one country of your choice.^[Disraeli was involved in speculation in South America with an investor named J. D. Powles who also commissioned him to write this promotional pamphlet.]
++ [@tookeHistoryPricesVol1838] [link](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
++ [@disraeliInquiryPlansProgress1825] [link](http://hdl.handle.net/2027/mdp.39015063950995) read up to page 21 and then skim a section on one country of your choice.^[Disraeli was involved in speculation in South America with an investor named J. D. Powles who also commissioned him to write this promotional pamphlet.]
 
 ## 3. The aftermath of sovereign debt crises
 
-+ [[@flandreauSovereignStatesBondholders2013]](https://doi.org/10.1093/oxrep/grt031)
++ [@flandreauSovereignStatesBondholders2013] [link](https://doi.org/10.1093/oxrep/grt031)
 
 ## 4. The Baring Crisis
 
 
 **General readings**
 
-+ [[@floresInformationAsymmetriesConflict2011]](https://www.cambridge.org/core/article/information-asymmetries-and-conflict-of-interest-during-the-baring-crisis-188018901/F7A751A4AC3D90669DFD370A387D3E9C)
-+ [[@dellapaoleraMonetaryFinancialWreck2001]](https://www.nber.org/chapters/c8837.pdf)
++ [@floresInformationAsymmetriesConflict2011] [link](https://www.cambridge.org/core/article/information-asymmetries-and-conflict-of-interest-during-the-baring-crisis-188018901/F7A751A4AC3D90669DFD370A387D3E9C)
++ [@dellapaoleraMonetaryFinancialWreck2001] [link](https://www.nber.org/chapters/c8837.pdf)
 
 
 **Primary sources**
@@ -90,18 +90,18 @@ German (consortium banks to Barings) in addition to English
 so feel free to make use of any special language skills if you
 like.
 
-+ [[@CorrespondenceDiscontoGesellschaft]](https://baring.access.preservica.com/uncategorized/IO_b436c123-97cd-42f2-a3c7-aed0cdbbffec/?view=gallery)
-+ [[@SchemeConversionArgentine1888]](https://baring.access.preservica.com/uncategorized/IO_baeb649b-dbe3-46c5-9d0c-afb75887c7a2/)
-+ [[@ProposalArgentineGovernment]](https://baring.access.preservica.com/uncategorized/IO_fabf01ef-16ac-4d52-80f6-8ed5a8add171/?view=gallery)
-+ [[@CorrespondenceGeorgeWhite]](https://baring.access.preservica.com/uncategorized/SO_4177cba6-61a1-46a7-8c10-148bf2e2d464/)
-+ [[@TelegramDiscontoGesellschaft1889]](https://baring.access.preservica.com/uncategorized/SO_77f5601d-3087-4905-8c42-194218d3cbc2/)
-+ [[@DraftResponseLuis1893]](https://baring.access.preservica.com/uncategorized/IO_dd0844b9-214a-4f86-9cd3-ffaf91ed6e25/?view=gallery)
-+ [[@CorrespondanceFosterBraithwaite]](https://baring.access.preservica.com/uncategorized/IO_7627b2eb-bbbc-44db-9eb2-1713862658af/?view=gallery)
++ [@CorrespondenceDiscontoGesellschaft] [link](https://baring.access.preservica.com/uncategorized/IO_b436c123-97cd-42f2-a3c7-aed0cdbbffec/?view=gallery)
++ [@SchemeConversionArgentine1888] [link](https://baring.access.preservica.com/uncategorized/IO_baeb649b-dbe3-46c5-9d0c-afb75887c7a2/)
++ [@ProposalArgentineGovernment] [link](https://baring.access.preservica.com/uncategorized/IO_fabf01ef-16ac-4d52-80f6-8ed5a8add171/?view=gallery)
++ [@CorrespondenceGeorgeWhite] [link](https://baring.access.preservica.com/uncategorized/SO_4177cba6-61a1-46a7-8c10-148bf2e2d464/)
++ [@TelegramDiscontoGesellschaft1889] [link](https://baring.access.preservica.com/uncategorized/SO_77f5601d-3087-4905-8c42-194218d3cbc2/)
++ [@DraftResponseLuis1893] [link](https://baring.access.preservica.com/uncategorized/IO_dd0844b9-214a-4f86-9cd3-ffaf91ed6e25/?view=gallery)
++ [@CorrespondanceFosterBraithwaite] [link](https://baring.access.preservica.com/uncategorized/IO_7627b2eb-bbbc-44db-9eb2-1713862658af/?view=gallery)
 
 
 ## 5. The interwar crisis and sudden-stops: the mechanics of the payment network
 
-+ [[@accominottiMotherAllSudden2016]](https://doi.org/10.1111/ehr.12128)
++ [@accominottiMotherAllSudden2016] [link](https://doi.org/10.1111/ehr.12128)
 
 ## 6. The Great Recession and transatlantic flows
 
@@ -127,8 +127,8 @@ about the characteristics of British investors.
 
 **Primary sources**
 
-+ [[@aytounHowWeGot1845]](http://www.dtc.umn.edu/~odlyzko/rrsources/glen6.pdf)^[The text is reproduced on Andrew Odlyzko's website. He has supplied a helpful introduction which you should also read.]
-+ [[@anon.ShortSureGuide1847]](https://link.gale.com/apps/doc/U0106715654/MOME?u=ull_ttda&sid=MOME&xid=f232123e)
++ [@aytounHowWeGot1845] [link](http://www.dtc.umn.edu/~odlyzko/rrsources/glen6.pdf)^[The text is reproduced on Andrew Odlyzko's website. He has supplied a helpful introduction which you should also read.]
++ [@anon.ShortSureGuide1847] [link](https://link.gale.com/apps/doc/U0106715654/MOME?u=ull_ttda&sid=MOME&xid=f232123e)
 
 
 ## 8. The development of the joint-stock corporation
@@ -149,7 +149,7 @@ about the characteristics of British investors.
 
 **Primary sources**
 
-+ [[@duguidHowReadMoney1902]](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. It's a useful guide to reading some of the other primary sources in the course.]
++ [@duguidHowReadMoney1902] [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. It's a useful guide to reading some of the other primary sources in the course.]
 
 ## 10. Rating agencies, credit default swaps and financial surveillance
 
@@ -157,8 +157,8 @@ about the characteristics of British investors.
 
 **General readings**
 
-+ [[@rutterfordWhoComprisedNation2011]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0289.2010.00539.x)
-+ [[@newtonFemaleInvestorsFirst2006]](https://www.tandfonline.com/doi/full/10.1080/09585200600756316)
++ [@rutterfordWhoComprisedNation2011] [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0289.2010.00539.x)
++ [@newtonFemaleInvestorsFirst2006] [link](https://www.tandfonline.com/doi/full/10.1080/09585200600756316)
 
 
 + For primary sources force them into the hard stuff
@@ -190,7 +190,7 @@ in the inter-bank market that emerged in 2008.
 
 ## 15. Bank of England in 2008
 
-+ [[@gortonSlappedFaceInvisible2009]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1401882)
++ [@gortonSlappedFaceInvisible2009] [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1401882)
 
 # The stock exchange
 
@@ -211,18 +211,18 @@ We will spend two weeks on the London Stock Exchange (LSE)
 
 **General readings**
 
-+ [[@attardMakingMarketJobbers2000]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27B5A3F3C440C45D2B633E603C80C185/S0968565000000019a.pdf/making_a_market_the_jobbers_of_the_london_stock_exchange_18001986.pdf)
++ [@attardMakingMarketJobbers2000] [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27B5A3F3C440C45D2B633E603C80C185/S0968565000000019a.pdf/making_a_market_the_jobbers_of_the_london_stock_exchange_18001986.pdf)
 
 **Primary sources**
 
-+ [[@attardLondonStockExchange]](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick two interviews and listen to them or read transcript
++ [@attardLondonStockExchange] [link](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick two interviews and listen to them or read transcript
 
 # Currencies
 
 ## 18. The 'classic' Gold Standard
 
 + [@eichengreenGlobalizingCapitalHistory2008] Chapter on the Classical Gold Standard
-+ [[@redishEvolutionGoldStandard1990]](https://doi.org/10.1017/S0022050700037827)
++ [@redishEvolutionGoldStandard1990] [link](https://doi.org/10.1017/S0022050700037827)
 + Ricardo for primary sources
 
 ## 19. The interwar crisis
