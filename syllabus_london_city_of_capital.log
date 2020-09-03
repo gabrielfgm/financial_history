@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.16)  26 AUG 2020 16:14
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.16)  3 SEP 2020 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -854,32 +854,29 @@ LaTeX Info: Redefining \selectfont on input line 70.
 
 \langwohyphens=\language84
 
-Overfull \hbox (17.84317pt too wide) in paragraph at lines 82--82
+Overfull \hbox (17.84317pt too wide) in paragraph at lines 79--79
 |\TU/lmr/m/it/10.95 1. Economic and Financial History: An introduction to key c
 oncepts| 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 120.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 120.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 
-LaTeX Warning: Marginpar on page 1 moved.
-
-
-Overfull \hbox (2.1299pt too wide) in paragraph at lines 136--136
+Overfull \hbox (2.1299pt too wide) in paragraph at lines 126--126
 |\TU/lmr/m/it/10.95 2. Lending money abroad: the global sovereign debt crisis o
 f 1825| 
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 146.
+Package hyperref Warning: Suppressing link with empty target on input line 136.
 
 
+LaTeX Font Info:    Try loading font information for U+msa on input line 150.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 150.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 LaTeX Warning: Marginpar on page 1 moved.
 
@@ -890,19 +887,10 @@ LaTeX Warning: Marginpar on page 1 moved.
 LaTeX Warning: Marginpar on page 2 moved.
 
 
-Overfull \hbox (1.5605pt too wide) in paragraph at lines 184--184
-|\TU/lmr/m/it/10.95 3. The aftermath of sovereign debt crises: bondholder commi
-ttees
- []
+LaTeX Warning: Marginpar on page 2 moved.
 
 
-Overfull \hbox (10.09059pt too wide) in paragraph at lines 213--213
-|\TU/lmr/m/it/10.95 5. The interwar crisis and sudden-stops: the mechanics of t
-he pay-
- []
-
-
-Package fontspec Warning: \addfontfeature(s) ignored on line 261; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 251; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -910,19 +898,13 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 261; it cannot be
 (fontspec)                  The requested feature is "LetterSpace=10". 
 
 [2]
-Overfull \hbox (3.24002pt too wide) in paragraph at lines 284--288
-[]\TU/lmr/m/n/10 James Taylor, \TU/lmr/m/it/10 Creating Capitalism \TU/lmr/m/n/
-10 (Royal Historical Society/Boydell 
+Overfull \hbox (10.09059pt too wide) in paragraph at lines 267--267
+|\TU/lmr/m/it/10.95 5. The interwar crisis and sudden-stops: the mechanics of t
+he pay-
  []
 
 
-Overfull \hbox (11.53004pt too wide) in paragraph at lines 362--363
-[][]\TU/lmr/m/n/10 Gary B. Gorton, \TU/lmr/m/it/10 Slapped in the Face by the I
-nvisible Hand \TU/lmr/m/n/10 (Rochester, 
- []
-
-
-Package fontspec Warning: \addfontfeature(s) ignored on line 363; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 338; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -930,13 +912,26 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 363; it cannot be
 (fontspec)                  The requested feature is "LetterSpace=10". 
 
 [3]
-Overfull \hbox (6.56105pt too wide) in paragraph at lines 371--371
-|\TU/lmr/m/it/10.95 13. The growth and development of the London Stock Exchange
- in
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+Overfull \hbox (3.24002pt too wide) in paragraph at lines 354--357
+[]\TU/lmr/m/n/10 James Taylor, \TU/lmr/m/it/10 Creating Capitalism \TU/lmr/m/n/
+10 (Royal Historical Society/Boydell 
  []
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 458; it cannot be
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+Overfull \hbox (9.35327pt too wide) in paragraph at lines 395--395
+|\TU/lmr/m/it/10.95 10. Rating agencies, credit default swaps and financial sur
+veillance| 
+ []
+
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 442; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -944,14 +939,19 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 458; it cannot be
 (fontspec)                  The requested feature is "LetterSpace=10". 
 
 [4]
+Overfull \hbox (11.53004pt too wide) in paragraph at lines 478--479
+[][]\TU/lmr/m/n/10 Gary B. Gorton, \TU/lmr/m/it/10 Slapped in the Face by the I
+nvisible Hand \TU/lmr/m/n/10 (Rochester, 
+ []
 
-Package bibentry Warning: You have used \nobibliography* 
-(bibentry)                without a following \bibliography.
-(bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 477.
+Overfull \hbox (6.56105pt too wide) in paragraph at lines 489--489
+|\TU/lmr/m/it/10.95 16. The growth and development of the London Stock Exchange
+ in
+ []
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 477; it cannot be
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 532; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -959,22 +959,46 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 477; it cannot be
 (fontspec)                  The requested feature is "LetterSpace=10". 
 
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 477.
+
+Package bibentry Warning: You have used \nobibliography* 
+(bibentry)                without a following \bibliography.
+(bibentry)                You may not be able to run BibTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 625.
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 625; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmr/m/n/10 ".
+(fontspec)                  The requested feature is "LetterSpace=10". 
+
+[6]
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 625; it cannot be
+(fontspec)                used with a font that wasn't selected by a fontspec
+(fontspec)                command.
+(fontspec)                 
+(fontspec)                 The current font is "\TU/lmr/m/n/10 ".
+(fontspec)                  The requested feature is "LetterSpace=10". 
+
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 625.
 (./syllabus_london_city_of_capital.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 477.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 477.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 625.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 625.
 Package rerunfilecheck Info: File `syllabus_london_city_of_capital.out' has not
  changed.
-(rerunfilecheck)             Checksum: 99FED907DB6D9F92FCAA800ACD0B8E7E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 477.
+(rerunfilecheck)             Checksum: D61BBE9F37395D15575758200B989F1F.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 625.
  ) 
 Here is how much of TeX's memory you used:
- 24018 strings out of 492916
- 444115 string characters out of 6133345
- 564081 words of memory out of 5000000
- 27811 multiletter control sequences out of 15000+600000
+ 24028 strings out of 492916
+ 444336 string characters out of 6133345
+ 565310 words of memory out of 5000000
+ 27821 multiletter control sequences out of 15000+600000
  538028 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,11n,56p,397b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on syllabus_london_city_of_capital.pdf (5 pages).
+Output written on syllabus_london_city_of_capital.pdf (7 pages).

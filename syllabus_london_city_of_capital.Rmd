@@ -5,12 +5,14 @@ author: "Dr. Gabriel Geisler Mesevage"
 date: "`r Sys.Date()`"
 output:
   rmarkdown::html_document:
+        toc: true
         theme: null
         highlight: null
         mathjax: null
-  tufte::tufte_html: default
+  tufte::tufte_html: 
+        toc: true
   tufte::tufte_handout:
-    latex_engine: xelatex
+        latex_engine: xelatex
 bibliography: capital.bib
 link-citations: yes
 csl: history_and_theory.csl
@@ -25,7 +27,7 @@ knitr::opts_chunk$set(tidy = FALSE,
 options(htmltools.dir.version = FALSE)
 ```
 
-## 1. Economic and Financial History: An introduction to key concepts
+# 1. Economic and Financial History: An introduction to key concepts
 
 The first class will start by providing some background on the themes we will 
 be covering. For the lecture, I will try to place the capital market into
@@ -34,7 +36,7 @@ sources, we will reflect on how to read this material. We will also take
 some time to look at the databases that exist that could be helpful in
 this area.
 
-## General readings
+**General readings**
 
 + [[@kindlebergerManiasPanicsCrashes1996]](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5180973&ppg=47) Chapter 2 on the anatomy of financial crises
 + [[@eichengreenFinancialHistoryHistorical]](http://doi.org/10.1353/cap.2019.0003)
@@ -51,14 +53,14 @@ Latin America.
 
 ## 2. Lending money abroad: the global sovereign debt crisis of 1825
 
-## General Readings
+**General Readings**
 
 + [[@pettisVolatilityMachineEmerging2001]]() Chapter 4
 + [[@nealFinancialCrisis18251998]](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
 + [[@jenksMigrationBritishCapital1927]](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression]
 + [[@clavel_2020]](https://doi.org/10.1017/eso.2020.25)^[This is a recent reinterpretation of the Poyais scheme.]
 
-## Primary Sources
+**Primary Sources**
 
 + [[@tookeHistoryPricesVol1838]](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
 + [[@disraeliInquiryPlansProgress1825]](http://hdl.handle.net/2027/mdp.39015063950995) read up to page 21 and then skim a section on one country of your choice.^[Disraeli was involved in speculation in South America with an investor named J. D. Powles who also commissioned him to write this promotional pamphlet.]
@@ -70,13 +72,13 @@ Latin America.
 ## 4. The Baring Crisis
 
 
-## General readings
+**General readings**
 
 + [[@floresInformationAsymmetriesConflict2011]](https://www.cambridge.org/core/article/information-asymmetries-and-conflict-of-interest-during-the-baring-crisis-188018901/F7A751A4AC3D90669DFD370A387D3E9C)
 + [[@dellapaoleraMonetaryFinancialWreck2001]](https://www.nber.org/chapters/c8837.pdf)
 
 
-## Primary sources
+**Primary sources**
 
 We will be looking at the Barings Archive for sources on the
 Argentine crisis of 1890. In addition to the below, you will go
@@ -118,12 +120,12 @@ about the characteristics of British investors.
 
 ## 7. The railway mania of 1845 and crisis of 1847
 
-## General Readings
+**General readings**
 
 + [@campbellGovernmentPolicyBritish2014]
 + [@odlyzkoCollapseRailwayMania2011]
 
-## Primary Sources
+**Primary sources**
 
 + [[@aytounHowWeGot1845]](http://www.dtc.umn.edu/~odlyzko/rrsources/glen6.pdf)^[The text is reproduced on Andrew Odlyzko's website. He has supplied a helpful introduction which you should also read.]
 + [[@anon.ShortSureGuide1847]](https://link.gale.com/apps/doc/U0106715654/MOME?u=ull_ttda&sid=MOME&xid=f232123e)
@@ -131,11 +133,11 @@ about the characteristics of British investors.
 
 ## 8. The development of the joint-stock corporation
 
-## General readings
+**General readings**
 
 + [@taylorCreatingCapitalismJointstock2006]
 
-## Primary sources
+**Primary sources**
 
 + Parliamentary enquiries
 + Spencer maybe on railway morals?
@@ -143,9 +145,9 @@ about the characteristics of British investors.
 
 ## 9. The media and company promotion
 
-## General Readings
+**General readings**
 
-## Primary sources
+**Primary sources**
 
 + [[@duguidHowReadMoney1902]](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. It's a useful guide to reading some of the other primary sources in the course.]
 
@@ -153,7 +155,7 @@ about the characteristics of British investors.
 
 ## 11. The investing public
 
-## General readings
+**General readings**
 
 + [[@rutterfordWhoComprisedNation2011]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0289.2010.00539.x)
 + [[@newtonFemaleInvestorsFirst2006]](https://www.tandfonline.com/doi/full/10.1080/09585200600756316)
@@ -196,22 +198,22 @@ We will spend two weeks on the London Stock Exchange (LSE)
 
 ## 16. The growth and development of the London Stock Exchange in the 19th century
 
-## General Readings
+**General readings**
 
 + [@taylorOutsideLondonStock2020]
 + [@nealEvolutionStructurePerformance2006]
 
-## Primary Sources
+**Primary sources**
 
 + 
 
 ## 17. The Big Bang
 
-## General readings
+**General readings**
 
 + [[@attardMakingMarketJobbers2000]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27B5A3F3C440C45D2B633E603C80C185/S0968565000000019a.pdf/making_a_market_the_jobbers_of_the_london_stock_exchange_18001986.pdf)
 
-## Primary sources
+**Primary sources**
 
 + [[@attardLondonStockExchange]](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick two interviews and listen to them or read transcript
 
@@ -247,5 +249,4 @@ We will spend two weeks on the London Stock Exchange (LSE)
 
 ## 25. Exam Review
 
-## Bibliography
 
