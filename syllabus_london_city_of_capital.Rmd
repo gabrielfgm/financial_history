@@ -9,14 +9,14 @@ output:
         theme: null
         highlight: null
         mathjax: null
-  tufte::tufte_html: 
+  tint::tintHtml: 
         toc: true
   tufte::tufte_handout:
         latex_engine: xelatex
 bibliography: capital.bib
 link-citations: no
 csl: history_and_theory.csl
-citecolor: blue
+linkcolor: blue
 ---
 
 ```{r setup, include=FALSE}
