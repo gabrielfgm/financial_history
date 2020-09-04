@@ -17,6 +17,7 @@ bibliography: capital.bib
 link-citations: no
 csl: history_and_theory.csl
 linkcolor: blue
+urlcolor: blue
 ---
 
 ```{r setup, include=FALSE}
