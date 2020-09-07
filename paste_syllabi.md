@@ -1,6 +1,6 @@
 `{r start, include=FALSE} knitr::opts_chunk$set(echo = FALSE) library(bookdown)`
 
-# Background Reading & Sources
+# Background Reading & Sources {#background-reading-sources .unnumbered}
 
 ## Financial History Overviews
 
@@ -60,7 +60,7 @@
 
 <!--chapter:end:index.Rmd-->
 
-# 1. Introduction, key concepts, and course mechanics
+# Introduction, key concepts, and course mechanics
 
 The first class will start by providing some background on the themes we
 will be covering. For the lecture, I will try to place the capital
@@ -84,7 +84,7 @@ assessments in this course.
 
 <!--chapter:end:01-week.Rmd-->
 
-# 2. Lending money abroad: the global sovereign debt crisis of 1825
+# Lending money abroad: the global sovereign debt crisis of 1825
 
 ## General Readings
 
@@ -114,7 +114,7 @@ assessments in this course.
 
 <!--chapter:end:02-week.Rmd-->
 
-# 3. The London Stock Exchange in the 19th century
+# The London Stock Exchange in the 19th century
 
 ## General readings
 
@@ -138,7 +138,7 @@ assessments in this course.
 
 <!--chapter:end:03-week.Rmd-->
 
-# 4. The 'classic' Gold Standard
+# The 'classic' Gold Standard
 
 ## General readings
 
@@ -164,7 +164,7 @@ assessments in this course.
 
 <!--chapter:end:04-week.Rmd-->
 
-# 5. The railway mania of 1845 and crisis of 1847
+# The railway mania of 1845 and crisis of 1847
 
 ## General readings
 
@@ -187,11 +187,11 @@ assessments in this course.
 
 <!--chapter:end:05-week.Rmd-->
 
-# 6. Dissertation Chat 1
+# Dissertation Chat 1
 
 <!--chapter:end:06-week.Rmd-->
 
-# 7. The development of the joint-stock corporation
+# The development of the joint-stock corporation
 
 ## General readings
 
@@ -206,7 +206,7 @@ assessments in this course.
 
 <!--chapter:end:07-week.Rmd-->
 
-# 8. The London money market and the crisis of 1866
+# The London money market and the crisis of 1866
 
 ## General readings
 
@@ -220,7 +220,7 @@ assessments in this course.
 
 <!--chapter:end:08-week.Rmd-->
 
-# 9. The Baring Crisis
+# The Baring Crisis
 
 ## General readings
 
@@ -268,7 +268,7 @@ special language skills if you like.
 
 <!--chapter:end:09-week.Rmd-->
 
-# 10. Financial information in the 19th century
+# Financial information in the 19th century
 
 ## General readings
 
@@ -286,11 +286,11 @@ special language skills if you like.
 
 <!--chapter:end:10-week.Rmd-->
 
-# 11. Dissertation chat 2
+# Dissertation chat 2
 
 <!--chapter:end:11-week.Rmd-->
 
-# 12. International Finance and WWI
+# International Finance and WWI
 
 ## General readings
 
@@ -303,7 +303,7 @@ special language skills if you like.
 
 <!--chapter:end:12-week.Rmd-->
 
-# 13. The reparations problem
+# The reparations problem
 
 ## General readings
 
@@ -319,7 +319,7 @@ special language skills if you like.
 
 <!--chapter:end:13-week.Rmd-->
 
-# 14. The collapse of the gold standard
+# The collapse of the gold standard
 
 ## General readings
 
@@ -333,7 +333,7 @@ special language skills if you like.
 
 <!--chapter:end:14-week.Rmd-->
 
-# 15. Decolonization and the pound
+# Decolonization and the pound
 
 ## General readings
 
@@ -349,7 +349,7 @@ special language skills if you like.
 
 <!--chapter:end:15-week.Rmd-->
 
-# 16. The Bank of England and the lifeboat operation
+# The Bank of England and the lifeboat operation
 
 ## General readings
 
@@ -364,7 +364,7 @@ special language skills if you like.
 
 <!--chapter:end:16-week.Rmd-->
 
-# 17. Rise of the eurodollar market
+# Rise of the eurodollar market
 
 ## General readings
 
@@ -384,7 +384,7 @@ special language skills if you like.
 
 <!--chapter:end:17-week.Rmd-->
 
-# 18. The Big Bang and financial deregulation
+# The Big Bang and financial deregulation
 
 ## General readings
 
@@ -408,7 +408,7 @@ special language skills if you like.
 
 <!--chapter:end:18-week.Rmd-->
 
-# 19. The Great Recession: transatlantic flows and mortgage mania
+# The Great Recession: transatlantic flows and mortgage mania
 
 ## General readings
 
@@ -425,7 +425,7 @@ special language skills if you like.
 
 <!--chapter:end:19-week.Rmd-->
 
-# 20. The Great Recession: The run on repo and the aftermath
+# The Great Recession: The run on repo and the aftermath
 
 ## General readings
 
@@ -443,7 +443,7 @@ special language skills if you like.
 
 <!--chapter:end:20-week.Rmd-->
 
-# 21. Review week: Exam Prep
+# Review week: Exam Prep
 
 <!--chapter:end:21-revision-week.Rmd-->
 

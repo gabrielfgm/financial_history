@@ -1,4 +1,4 @@
-# 1. Introduction, key concepts, and course mechanics
+# Introduction, key concepts, and course mechanics
 
 The first class will start by providing some background on the themes we will 
 be covering. For the lecture, I will try to place the capital market into
