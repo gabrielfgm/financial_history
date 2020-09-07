@@ -1,0 +1,10 @@
+book_filename: "my-book.Rmd"
+delete_merged_file: false
+output_dir: "docs"
+rmd_files: ["index.Rmd", "01-week.Rmd", "02-week.Rmd", "03-week.Rmd",
+                         "04-week.Rmd", "05-week.Rmd", "06-week.Rmd",
+                         "07-week.Rmd", "08-week.Rmd", "09-week.Rmd",
+                         "10-week.Rmd", "11-week.Rmd", "12-week.Rmd",
+                         "13-week.Rmd", "14-week.Rmd", "15-week.Rmd",
+                         "16-week.Rmd", "17-week.Rmd", "18-week.Rmd",
+                         "19-week.Rmd", "20-week.Rmd", "21-revision-week.Rmd"]

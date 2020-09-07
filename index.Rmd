@@ -1,0 +1,50 @@
+---
+title: "Syllabus"
+subtitle: "London, City of Capital, 1825-2008"
+author: "Dr. Gabriel Geisler Mesevage"
+date: "`r Sys.Date()`"
+documentclass: book
+output_dir: "docs"
+output:
+  bookdown::gitbook: default
+bibliography: capital.bib
+link-citations: no
+csl: history_and_theory.csl
+linkcolor: blue
+urlcolor: blue
+---
+
+```{r start, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(bookdown)
+```
+
+# Background Reading & Sources {-}
+
+## Financial History Overviews
+
++ Barry Eichengreen, Globalizing Capital: A History of the International Monetary System, 3rd Edition, Princeton University Press: 2019. (Or any edition).
++ Charles P. Kindleberger, Manias, Panics and Crashes: A History of Financial Crises, 3rd Edition, Wiley: 1996. (Or any edition).
++ Youssef Cassis, Capitals of Capital: A History of International Financial Centres, 1780-2005, Cambridge University Press: 2012.
+
+## General economics
+
++ Robert Allen, *Global Economic History: a very short introduction*, OUP: 2011. Allen is a prolific economic historian whose work we will encounter throughout the course, and this is a remarkably concise introduction to a very large topic.
++ [Partha Dasgupta, *Economics: a very short introduction*, OUP: 2007.](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=415258&ppg=2) This is a very well-reviewed brief introduction.
++ [Steven Durlauf & Lawrence Blume, *The New Palgrave Dictionary of Economics*.](https://link.springer.com/referencework/10.1057/978-1-349-95121-5#editorsandaffiliations) A helpful reference for looking up economic ideas you are unfamiliar with.
+
+## Data sources
+
++ [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/) contains an enormous number of series. Most data is contemporary but they have some series that are historical.
++ [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/) is developed by economic historians and contains macroeconomic data.
++ [http://eh.net/](http://eh.net/) is run by the Economic History Association and posts a number of published data series on its website. It also maintains [MeasuringWorth](https://www.measuringworth.com/datasets.html) for historical value comparisons.
++ [The Investor's Monthly Manual and digitized data 1869-1929 at Yale International Centre for Finance](https://som.yale.edu/faculty-research/our-centers-initiatives/international-center-finance/data/historical-financial-research-data/london-stock-exchange)
++ [The Economist Historical Archive, 1843-2014](https://go.gale.com/ps/start.do?p=ECON&u=kings)
++ [Financial Times Historical Archive, 1888-2010](https://go.gale.com/ps/start.do?p=FTHA&u=kings)
++ [The Times Digital Archive, 1785-2014, market coverage picks up around the 1840s](https://go.gale.com/ps/start.do?p=TTDA&u=kings)
++ [British Library Newspapers](https://go.gale.com/ps/start.do?p=BNCN&u=kings)
+
+## Archives in London
+
++ [Guildhall Library Business History Sources](https://www.cityoflondon.gov.uk/things-to-do/guildhall-library/collections/Pages/Business-history.aspx)
++ [London Metropolitan Archives](https://www.cityoflondon.gov.uk/things-to-do/london-metropolitan-archives/the-collections/Pages/default.aspx)

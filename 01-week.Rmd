@@ -1,0 +1,12 @@
+# 1. Introduction, key concepts, and course mechanics
+
+The first class will start by providing some background on the themes we will 
+be covering. For the lecture, I will try to place the capital market into
+long-run perspective and discuss speculative movements. I will also take
+some time to review the formative and summative assessments in this course.
+
+## General readings
+
++ [@kindlebergerManiasPanicsCrashes1996] Chapter 2 on the anatomy of financial crises^[Kindleberger is a prolific and influential economic historian. He is most famous for this account of bubbles, as well as his interpretation of the global great depression of the interwar period.] [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5180973&ppg=47)
++ [@cassisCapitalsCapitalHistory2006] chapter 3 [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=802981&ppg=90)
++ [@mollanCityLondonInternational2012] [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9949AB1236E658813B89877F9B0E85AA/S1467222700010867a.pdf/city_of_london_as_an_international_commercial_and_financial_center_since_1900.pdf)
