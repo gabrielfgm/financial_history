@@ -1,5 +1,30 @@
 `{r start, include=FALSE} knitr::opts_chunk$set(echo = FALSE) library(bookdown)`
 
+# Introduction: London, City of Capital, 1825-2008 {#introduction-london-city-of-capital-1825-2008 .unnumbered}
+
+London has functioned as a financial hub for over two centuries. It was
+through London that British and international savings were funneled into
+Latin American sovereign debt, British railroads, Southern African
+diamond mines, or North American mortgages. The nineteenth century saw
+London grow to become the premiere international investment market, and
+witnessed the growth of central banking doctrine at the Bank of England,
+the growth of the London Stock Exchange, and the establishment of
+supporting institutions such as a financial press. During the financial
+turbulence of the inter-war years London sat at the centre of efforts to
+maintain the gold standard, and in the aftermath of World War II it was
+London where the international market for dollars grew. Sterling
+instability in the 20th century was funneled through the London capital
+market, and the financial deregulation of the last quarter of the
+twentieth century witnessed further growth of the City. This module aims
+to analyze the role of London as an international financial hub,
+focusing in particular on the role of crises in driving institutional
+and regulatory change. We open with the Panic of 1825 -- which led to
+bank failures stemming from overseas lending to Latin America -- and
+close with the Global Financial Crisis. The module will be structured
+around relevant primary sources, which we will link to ideas from the
+broader historiography. The focus of the module is the economic and
+financial history of London as a capital market.
+
 # Background Reading & Sources {#background-reading-sources .unnumbered}
 
 ## Financial History Overviews
@@ -57,6 +82,7 @@
     Sources](https://www.cityoflondon.gov.uk/things-to-do/guildhall-library/collections/Pages/Business-history.aspx)
 -   [London Metropolitan
     Archives](https://www.cityoflondon.gov.uk/things-to-do/london-metropolitan-archives/the-collections/Pages/default.aspx)
+-   [The National Archives](https://nationalarchives.gov.uk/)
 
 <!--chapter:end:index.Rmd-->
 
@@ -73,9 +99,8 @@ assessments in this course.
 -   Charles P. Kindleberger, *Manias, Panics and Crashes* (John Wiley
     and Sons, 1996). Chapter 2 on the anatomy of financial crises[^1]
     [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5180973&ppg=47)
--   Youssef Cassis and Jacqueline Collier, *Capitals of Capital*
-    (Cambridge, UNITED KINGDOM: Cambridge University Press, 2006).
-    chapter 3
+-   Youssef Cassis, *Capitals of Capital* (Cambridge: Cambridge
+    University Press, 2006). chapter 3
     [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=802981&ppg=90)
 -   Simon Mollan and Ranald Michie, "The City of London as an
     International Commercial and Financial Center since 1900,"
