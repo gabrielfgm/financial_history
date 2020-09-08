@@ -77,7 +77,7 @@ some time to review the formative and summative assessments in this course.
 
 ## General Readings
 
-+ [@pettisVolatilityMachineEmerging2001] [link]() Chapter 4
+<!-- + [@pettisVolatilityMachineEmerging2001] [link]() Chapter 4 -->
 + [@nealFinancialCrisis18251998] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
 + [@jenksMigrationBritishCapital1927] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression.]
 + [@clavel_2020] [link](https://doi.org/10.1017/eso.2020.25)^[This is a recent reinterpretation of the Poyais scheme.]
@@ -86,6 +86,8 @@ some time to review the formative and summative assessments in this course.
 
 + [@tookeHistoryPricesVol1838] [link](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
 + [@disraeliInquiryPlansProgress1825] [link](http://hdl.handle.net/2027/mdp.39015063950995) read up to page 21 and then skim a section on one country of your choice.^[Disraeli was involved in speculation in South America with an investor named J. D. Powles who also commissioned him to write this promotional pamphlet.]
++ [@WaysMeansEvery1824] (link)[https://link.gale.com/apps/doc/U0104561666/MOME?u=ull_ttda&sid=MOME&xid=045a6e68] this is an example of a pamphlet written for investors in the 1820s.
++ **Assignment**: go to [The Times Digital Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an article about the Poyais settlement from the 1820s.
 
 
 <!--chapter:end:02-week.Rmd-->
@@ -94,14 +96,18 @@ some time to review the formative and summative assessments in this course.
 
 ## General readings
 
-+ [@taylorOutsideLondonStock2020]
-+ [@nealEvolutionStructurePerformance2006]
++ [@taylorOutsideLondonStock2020] (link)[https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article]
++ [@nealEvolutionStructurePerformance2006] (link)[www.jstor.org/stable/41378447]
++ [@morganStockExchangeIts1969] read Chapter 4 "The Development of an Organized Market"
 
 ## Primary sources
 
-+ Mortimer, Rules and regulations
+I want you to compare and contrast the Rules and Regulations as they were codified in 1812
+versus in 1847.
+
 + [@RulesRegulationsAdopted1812] [link](https://archive.org/details/rulesregulations00stocuoft)
 + [@RegulationsAdoptedCommittee1847] [link](https://books.googleusercontent.com/books/content?req=AKW5QacIwGHn20rqReIgbN_oGOc_Bt_fW8pdyKxlC09bYAwX3XOssxwTJthFknFUu177BshL5JA8J1ucpjgn-uh2dXpeFeh-fqGdtWZ5D2ixh8Chcrd2wMpyEvEu_l-q5MOwUlpf6GpNjNTpNqwchxfjJ5obkjQCB7thIA9SKnNwpipN0vbYcNRrLG2SClz9MGFKNqf6Z-mqLcRgmOqsko4l53FEfrySnoAnBje8jRT1IqCHzSPXo3juEpnzfEoqiD48Im02BSBkdFqLIDlDiYoXmyDe_RHbOK8c2nBL7rSykitTvXA6mvk)
++ [@mortimerEveryManHis1807] (link)[https://link.gale.com/apps/doc/U0103061473/MOME?u=ull_ttda&sid=MOME&xid=162e645a] read the Preface and Chapter III.
 
 <!--chapter:end:03-week.Rmd-->
 
@@ -113,11 +119,13 @@ some time to review the formative and summative assessments in this course.
 + [@eichengreenGlobalizingCapitalHistory2008] Chapter on the Classical Gold Standard
 + [@redishEvolutionGoldStandard1990] [link](https://doi.org/10.1017/S0022050700037827)
 + [@bordoGoldStandardTraditional1984] [link](https://core.ac.uk/download/pdf/6900088.pdf)
++ [@flandreauFrenchCrime18731996] [link](https://doi.org/10.1017/S0022050700017502)
 
 ## Primary sources
 
 + [@humeEssaysMoralPolitical1985] Chapter "Of the balance of trade" [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3327325&ppg=361)
 + [@goschenTheoryForeignExchanges1916] Chapter VI [link](https://hdl.handle.net/2027/uc2.ark:/13960/t9k35zr8s)
++ [@woodReportRoyalCommission1868] [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1867-044213/usgLogRstClick!!?accountid=11862)
 
 <!--chapter:end:04-week.Rmd-->
 
@@ -143,7 +151,8 @@ some time to review the formative and summative assessments in this course.
 
 ## General readings
 
-+ [@taylorCreatingCapitalismJointstock2006]
++ [@campbellSubstitutesLegalProtection2011] (link)[https://www.jstor.org/stable/41262435]
++ [@guinnaneContractualFreedomCorporate2017] (link)[https://doi.org/10.1017/S0007680517000733]
 
 ## Primary sources
 
@@ -268,7 +277,7 @@ like.
 
 <!--chapter:end:15-week.Rmd-->
 
-# The Bank of England and the lifeboat operation
+# The Bank of England and crises in the late 1970s
 
 ## General readings
 
@@ -278,6 +287,7 @@ like.
 
 + [@bankofenglandSecondaryBankingCrisis1978]
 + [@OralHistoriesCentre] [link](https://www.centreforfinancialhistory.org/oral-histories/)
++ [@dowBankEnglandMemoirs2014] Chapter 1
 
 <!--chapter:end:16-week.Rmd-->
 

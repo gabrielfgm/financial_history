@@ -1,4 +1,4 @@
-# The Bank of England and the lifeboat operation
+# The Bank of England and crises in the late 1970s
 
 ## General readings
 
@@ -8,3 +8,4 @@
 
 + [@bankofenglandSecondaryBankingCrisis1978]
 + [@OralHistoriesCentre] [link](https://www.centreforfinancialhistory.org/oral-histories/)
++ [@dowBankEnglandMemoirs2014] Chapter 1

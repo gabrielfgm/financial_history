@@ -113,8 +113,8 @@ assessments in this course.
 
 ## General Readings
 
--   Michael Pettis, *The volatility machine* (Oxford: Oxford University
-    Press, 2001). [link]() Chapter 4
+<!-- + [@pettisVolatilityMachineEmerging2001] [link]() Chapter 4 -->
+
 -   Larry Neal, "The Financial Crisis of 1825 and the Restructuring of
     the British Financial System," *Review* (1998), May/June.
     [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
@@ -136,6 +136,13 @@ assessments in this course.
     of the American mining companies.* (London, 1825).
     [link](http://hdl.handle.net/2027/mdp.39015063950995) read up to
     page 21 and then skim a section on one country of your choice.[^4]
+-   *Ways and means*, *Ways and means *(London: Published by the author,
+    1824).
+    (link)\[https://link.gale.com/apps/doc/U0104561666/MOME?u=ull\_ttda&sid=MOME&xid=045a6e68\]
+    this is an example of a pamphlet written for investors in the 1820s.
+-   **Assignment**: go to [The Times Digital
+    Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an
+    article about the Poyais settlement from the 1820s.
 
 <!--chapter:end:02-week.Rmd-->
 
@@ -145,14 +152,20 @@ assessments in this course.
 
 -   James Taylor, "Inside and Outside the London Stock Exchange,"
     *Enterprise & Society* (July 2020), 1--36.
--   LARRY NEAL and LANCE DAVIS, "The evolution of the structure and
+    (link)\[https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal\_article\]
+-   Larry Neal and Lance Davis, "The evolution of the structure and
     performance of the London Stock Exchange in the first global
     financial market, 1812-1914," *European Review of Economic History*
     (Oxford University Press, 2006), 10: 3, 279--300.
+    (link)\[www.jstor.org/stable/41378447\]
+-   E. V. Morgan and W. A. Thomas, *The Stock Exchange* (Elek, 1969).
+    read Chapter 4 "The Development of an Organized Market"
 
 ## Primary sources
 
--   Mortimer, Rules and regulations
+I want you to compare and contrast the Rules and Regulations as they
+were codified in 1812 versus in 1847.
+
 -   *Rules and Regulations Adopted by the Committee for General Purposes
     of the Stock-Exchange*, (Stephen Couchman, 1812).
     [link](https://archive.org/details/rulesregulations00stocuoft)
@@ -160,6 +173,10 @@ assessments in this course.
     Stock Exchange, to take effect from the 25th March, 1847*, (E.
     Couchman, 1847).
     [link](https://books.googleusercontent.com/books/content?req=AKW5QacIwGHn20rqReIgbN_oGOc_Bt_fW8pdyKxlC09bYAwX3XOssxwTJthFknFUu177BshL5JA8J1ucpjgn-uh2dXpeFeh-fqGdtWZ5D2ixh8Chcrd2wMpyEvEu_l-q5MOwUlpf6GpNjNTpNqwchxfjJ5obkjQCB7thIA9SKnNwpipN0vbYcNRrLG2SClz9MGFKNqf6Z-mqLcRgmOqsko4l53FEfrySnoAnBje8jRT1IqCHzSPXo3juEpnzfEoqiD48Im02BSBkdFqLIDlDiYoXmyDe_RHbOK8c2nBL7rSykitTvXA6mvk)
+-   Thomas Mortimer, *Every man his own broker; or, A guide to the
+    stock-exchange* (London: Printed for W.J. and J. Richardson, 1807).
+    (link)\[https://link.gale.com/apps/doc/U0103061473/MOME?u=ull\_ttda&sid=MOME&xid=162e645a\]
+    read the Preface and Chapter III.
 
 <!--chapter:end:03-week.Rmd-->
 
@@ -176,6 +193,9 @@ assessments in this course.
     classical gold standard, 1821-1931*, eds. Michael D. Bordo and
     Anna J. Schwartz (Chicago: University of Chicago Press, 1984),
     23--120. [link](https://core.ac.uk/download/pdf/6900088.pdf)
+-   Marc Flandreau, "The French Crime of 1873," *The Journal of Economic
+    History* (December 1996), 56: 4, 862--897.
+    [link](https://doi.org/10.1017/S0022050700017502)
 
 ## Primary sources
 
@@ -186,6 +206,10 @@ assessments in this course.
 -   George Joachim Goschen Goschen, *The theory of the foreign
     exchanges.* (London : 1916). Chapter VI
     [link](https://hdl.handle.net/2027/uc2.ark:/13960/t9k35zr8s)
+-   Charles Wood 1st Vct. Halifax, *Report from the Royal Commission on
+    International Coinage; together with the minutes of evidence and
+    appendix.* (House of Commons, 1868).
+    [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1867-044213/usgLogRstClick!!?accountid=11862)
 
 <!--chapter:end:04-week.Rmd-->
 
@@ -220,8 +244,14 @@ assessments in this course.
 
 ## General readings
 
--   James Taylor, *Creating Capitalism* (Royal Historical
-    Society/Boydell Press, 2006).
+-   Gareth Campbell and John D. Turner, "Substitutes for legal
+    protection," *The Economic History Review* (2011), 64: 2, 571--597.
+    (link)\[https://www.jstor.org/stable/41262435\]
+-   Timothy W. Guinnane, Ron Harris, and Naomi R. Lamoreaux,
+    "Contractual Freedom and Corporate Governance in Britain in the Late
+    Nineteenth and Early Twentieth Centuries," *Business History Review*
+    (2017), 91: 2, 227--277.
+    (link)\[https://doi.org/10.1017/S0007680517000733\]
 
 ## Primary sources
 
@@ -374,7 +404,7 @@ special language skills if you like.
 
 <!--chapter:end:15-week.Rmd-->
 
-# The Bank of England and the lifeboat operation
+# The Bank of England and crises in the late 1970s
 
 ## General readings
 
@@ -386,6 +416,8 @@ special language skills if you like.
     England's support operations," *Quarterly Bulletin* (1978), Q2.
 -   "Oral Histories \| Centre for Financial History."
     [link](https://www.centreforfinancialhistory.org/oral-histories/)
+-   C Dow, *Inside the bank of england* (Place of publication not
+    identified: Palgrave Macmillan, 2014). Chapter 1
 
 <!--chapter:end:16-week.Rmd-->
 

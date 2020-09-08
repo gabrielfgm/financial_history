@@ -2,11 +2,15 @@
 
 ## General readings
 
-+ [@taylorOutsideLondonStock2020]
-+ [@nealEvolutionStructurePerformance2006]
++ [@taylorOutsideLondonStock2020] (link)[https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article]
++ [@nealEvolutionStructurePerformance2006] (link)[www.jstor.org/stable/41378447]
++ [@morganStockExchangeIts1969] read Chapter 4 "The Development of an Organized Market"
 
 ## Primary sources
 
-+ Mortimer, Rules and regulations
+I want you to compare and contrast the Rules and Regulations as they were codified in 1812
+versus in 1847.
+
 + [@RulesRegulationsAdopted1812] [link](https://archive.org/details/rulesregulations00stocuoft)
 + [@RegulationsAdoptedCommittee1847] [link](https://books.googleusercontent.com/books/content?req=AKW5QacIwGHn20rqReIgbN_oGOc_Bt_fW8pdyKxlC09bYAwX3XOssxwTJthFknFUu177BshL5JA8J1ucpjgn-uh2dXpeFeh-fqGdtWZ5D2ixh8Chcrd2wMpyEvEu_l-q5MOwUlpf6GpNjNTpNqwchxfjJ5obkjQCB7thIA9SKnNwpipN0vbYcNRrLG2SClz9MGFKNqf6Z-mqLcRgmOqsko4l53FEfrySnoAnBje8jRT1IqCHzSPXo3juEpnzfEoqiD48Im02BSBkdFqLIDlDiYoXmyDe_RHbOK8c2nBL7rSykitTvXA6mvk)
++ [@mortimerEveryManHis1807] (link)[https://link.gale.com/apps/doc/U0103061473/MOME?u=ull_ttda&sid=MOME&xid=162e645a] read the Preface and Chapter III.
