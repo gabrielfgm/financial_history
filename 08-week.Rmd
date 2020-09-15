@@ -2,10 +2,12 @@
 
 ## General readings
 
-+ Flandreau, Bignon, Ugolini
-+ Acomminotti and Ugolini new paper on acceptances
++ [@bignonBagehotBeginnersMaking2012] (link)[https://doi.org/10.1111/j.1468-0289.2011.00606.x]
++ [@xuReshapingGlobalTrade2020] (link)[https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf] You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/)
++ For background on the functioning of trade-finance please read this brief article [@accominottiRobustMoneyMarkets2020] [link](https://voxeu.org/article/robust-money-markets)
 
 ## Primary sources
 
-+ Can I get discount window sources?
-+ Bagehot
++ [@bagehotLombardStreetDescription1873]
++ [@Panic1866] [link](https://link.gale.com/apps/doc/GP4100418639/ECON?u=kings&sid=ECON&xid=4a302558)
++ Go to either the [Economist Historical Archive](https://go.gale.com/ps/i.do?p=ECON&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=ECON) or the [Times Digital Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an article covering the panic.

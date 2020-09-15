@@ -175,7 +175,7 @@ were codified in 1812 versus in 1847.
     [link](https://books.googleusercontent.com/books/content?req=AKW5QacIwGHn20rqReIgbN_oGOc_Bt_fW8pdyKxlC09bYAwX3XOssxwTJthFknFUu177BshL5JA8J1ucpjgn-uh2dXpeFeh-fqGdtWZ5D2ixh8Chcrd2wMpyEvEu_l-q5MOwUlpf6GpNjNTpNqwchxfjJ5obkjQCB7thIA9SKnNwpipN0vbYcNRrLG2SClz9MGFKNqf6Z-mqLcRgmOqsko4l53FEfrySnoAnBje8jRT1IqCHzSPXo3juEpnzfEoqiD48Im02BSBkdFqLIDlDiYoXmyDe_RHbOK8c2nBL7rSykitTvXA6mvk)
 -   Thomas Mortimer, *Every man his own broker; or, A guide to the
     stock-exchange* (London: Printed for W.J. and J. Richardson, 1807).
-    (link)\[https://link.gale.com/apps/doc/U0103061473/MOME?u=ull\_ttda&sid=MOME&xid=162e645a\]
+    [link](https://link.gale.com/apps/doc/U0103061473/MOME?u=ull_ttda&sid=MOME&xid=162e645a)
     read the Preface and Chapter III.
 
 <!--chapter:end:03-week.Rmd-->
@@ -199,8 +199,8 @@ were codified in 1812 versus in 1847.
 
 ## Primary sources
 
--   David Hume and Eugene F. Miller, *Essays* (Indianapolis, IN, UNITED
-    STATES: Liberty Fund, Incorporated, 1985). Chapter "Of the balance
+-   David Hume, *Essays*, ed. Eugene F. Miller (Indianapolis, IN, United
+    States: Liberty Fund, Incorporated, 1985). Chapter "Of the balance
     of trade"
     [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3327325&ppg=361)
 -   George Joachim Goschen Goschen, *The theory of the foreign
@@ -255,9 +255,17 @@ were codified in 1812 versus in 1847.
 
 ## Primary sources
 
--   Parliamentary enquiries
--   Spencer maybe on railway morals?
--   Share prices!
+-   Thomas Barry Cusack Smith, *Royal Com. On Assimilation of Mercantile
+    Laws in United Kingdom and Amendments in Law of Partnership, as
+    regards Question of Limited or Unlimited Responsibility. First
+    Report, Appendix* (1854), 27.
+    [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1854-030339?accountid=11862)
+-   Herbert Spencer, *Essays* (New York : D. Appleton, and company,
+    1880). Chapter 7 "Railway Morals and Railway Policy"
+    [link](https://archive.org/details/essaysmoralpolit00spe/page/250/mode/2up)
+-   Look at the published list of companies registering as limited
+    liability in 1855. What kinds of businesses are these?
+    [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1856-032754?accountid=11862)
 
 <!--chapter:end:07-week.Rmd-->
 
@@ -265,13 +273,29 @@ were codified in 1812 versus in 1847.
 
 ## General readings
 
--   Flandreau, Bignon, Ugolini
--   Acomminotti and Ugolini new paper on acceptances
+-   Vincent Bignon, Marc Flandreau, and Stefano Ugolini, "Bagehot for
+    beginners," *The Economic History Review* (John Wiley & Sons, Ltd,
+    May 2012), 65: 2, 580--608.
+    (link)\[https://doi.org/10.1111/j.1468-0289.2011.00606.x\]
+-   Chenzi Xu, "Reshaping Global Trade," *Working Paper* (May 2020), 54.
+    (link)\[https://chenzi-xu.com/docs/reshaping\_global\_trade\_Xu.pdf\]
+    You can listen to the author discuss her paper
+    [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/)
+-   For background on the functioning of trade-finance please read this
+    brief article Olivier Accominotti, Delio Lucena-Piquero, and Stefano
+    Ugolini, "Robust money markets," *VoxEU.org* (April 2020).
+    [link](https://voxeu.org/article/robust-money-markets)
 
 ## Primary sources
 
--   Can I get discount window sources?
--   Bagehot
+-   Walter Bagehot, *Lombard Street* (Richard D. Irwin, Inc., 1873).
+-   "The Panic," *The Economist* (May 1866), 024: 1186, 581+.
+    [link](https://link.gale.com/apps/doc/GP4100418639/ECON?u=kings&sid=ECON&xid=4a302558)
+-   Go to either the [Economist Historical
+    Archive](https://go.gale.com/ps/i.do?p=ECON&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=ECON)
+    or the [Times Digital
+    Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an
+    article covering the panic.
 
 <!--chapter:end:08-week.Rmd-->
 
@@ -327,17 +351,27 @@ special language skills if you like.
 
 ## General readings
 
--   Grieser maybe? Me and Marc, Lucy Newton's paper, Badmouthing papers,
-    Financial times paper?
--   Make them read a version of the railway mania newspaper war paper I
-    am working on? This might be a nice exercise
+-   Dilwyn Porter, "'A Trusted Guide of the Investing Public',"
+    *Business History* (Routledge, 1986), 28: 1, 1--17.
+    [link](https://doi.org/10.1080/00076798500000068)
+    [link](https://www.tandfonline.com/doi/full/10.1080/00076798500000068)
+-   James Nye, "Boom, Crisis, Bust," in *The Media and Financial Crises:
+    Comparative and Historical Perspectives*, eds. Steve Schifferes and
+    Richard Roberts (Routledge, 2015), 215--244.
+    [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=1775338&ppg=244)
+-   Marc Flandreau and Gabriel Geisler Mesevage, "The separation of
+    information and lending and the rise of rating agencies in the USA
+    (18411907)," *Scandinavian Economic History Review* (2014), 62: 3,
+    213--242. [link](http://dx.doi.org/10.1080/03585522.2014.950602)
 
 ## Primary sources
 
 -   Charles Duguid, *How to Read the Money Article* (E. Wilson, 1902).
     [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)[^6]
--   Push the kids into the Financial Times archive and others and make
-    them find coverage they doubt to be objective
+-   I want you to search the [Financial Times Historical
+    Archive](https://go.gale.com/ps/i.do?p=FTHA&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=FTHA)
+    in its first decade, and find examples of material you believe was
+    paid to be inserted.
 
 <!--chapter:end:10-week.Rmd-->
 
@@ -416,8 +450,8 @@ special language skills if you like.
     England's support operations," *Quarterly Bulletin* (1978), Q2.
 -   "Oral Histories \| Centre for Financial History."
     [link](https://www.centreforfinancialhistory.org/oral-histories/)
--   C Dow, *Inside the bank of england* (Place of publication not
-    identified: Palgrave Macmillan, 2014). Chapter 1
+-   C Dow, *Inside the bank of england* (Palgrave Macmillan, 2014).
+    Chapter 1
 
 <!--chapter:end:16-week.Rmd-->
 
@@ -522,5 +556,4 @@ special language skills if you like.
     supplied a helpful introduction which you should also read.
 
 [^6]: This is a book on how to read financial coverage in 19th century
-    newspapers written at the turn of the century. It's a useful guide
-    to reading some of the other primary sources in the course.
+    newspapers written at the turn of the century.

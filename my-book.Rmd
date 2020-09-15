@@ -107,7 +107,7 @@ versus in 1847.
 
 + [@RulesRegulationsAdopted1812] [link](https://archive.org/details/rulesregulations00stocuoft)
 + [@RegulationsAdoptedCommittee1847] [link](https://books.googleusercontent.com/books/content?req=AKW5QacIwGHn20rqReIgbN_oGOc_Bt_fW8pdyKxlC09bYAwX3XOssxwTJthFknFUu177BshL5JA8J1ucpjgn-uh2dXpeFeh-fqGdtWZ5D2ixh8Chcrd2wMpyEvEu_l-q5MOwUlpf6GpNjNTpNqwchxfjJ5obkjQCB7thIA9SKnNwpipN0vbYcNRrLG2SClz9MGFKNqf6Z-mqLcRgmOqsko4l53FEfrySnoAnBje8jRT1IqCHzSPXo3juEpnzfEoqiD48Im02BSBkdFqLIDlDiYoXmyDe_RHbOK8c2nBL7rSykitTvXA6mvk)
-+ [@mortimerEveryManHis1807] (link)[https://link.gale.com/apps/doc/U0103061473/MOME?u=ull_ttda&sid=MOME&xid=162e645a] read the Preface and Chapter III.
++ [@mortimerEveryManHis1807] [link](https://link.gale.com/apps/doc/U0103061473/MOME?u=ull_ttda&sid=MOME&xid=162e645a) read the Preface and Chapter III.
 
 <!--chapter:end:03-week.Rmd-->
 
@@ -156,9 +156,9 @@ versus in 1847.
 
 ## Primary sources
 
-+ Parliamentary enquiries
-+ Spencer maybe on railway morals?
-+ Share prices!
++ [@smithRoyalComAssimilation1854] [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1854-030339?accountid=11862)
++ [@spencerEssaysMoralPolitical1880] Chapter 7 "Railway Morals and Railway Policy" [link](https://archive.org/details/essaysmoralpolit00spe/page/250/mode/2up)
++ Look at the published list of companies registering as limited liability in 1855. What kinds of businesses are these? [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1856-032754?accountid=11862)
 
 <!--chapter:end:07-week.Rmd-->
 
@@ -166,13 +166,15 @@ versus in 1847.
 
 ## General readings
 
-+ Flandreau, Bignon, Ugolini
-+ Acomminotti and Ugolini new paper on acceptances
++ [@bignonBagehotBeginnersMaking2012] (link)[https://doi.org/10.1111/j.1468-0289.2011.00606.x]
++ [@xuReshapingGlobalTrade2020] (link)[https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf] You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/)
++ For background on the functioning of trade-finance please read this brief article [@accominottiRobustMoneyMarkets2020] [link](https://voxeu.org/article/robust-money-markets)
 
 ## Primary sources
 
-+ Can I get discount window sources?
-+ Bagehot
++ [@bagehotLombardStreetDescription1873]
++ [@Panic1866] [link](https://link.gale.com/apps/doc/GP4100418639/ECON?u=kings&sid=ECON&xid=4a302558)
++ Go to either the [Economist Historical Archive](https://go.gale.com/ps/i.do?p=ECON&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=ECON) or the [Times Digital Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an article covering the panic.
 
 <!--chapter:end:08-week.Rmd-->
 
@@ -210,13 +212,14 @@ like.
 
 ## General readings
 
-+ Grieser maybe? Me and Marc, Lucy Newton's paper, Badmouthing papers, Financial times paper?
-+ Make them read a version of the railway mania newspaper war paper I am working on? This might be a nice exercise 
++ [@porterTrustedGuideInvesting1986] [link](https://doi.org/10.1080/00076798500000068) [link](https://www.tandfonline.com/doi/full/10.1080/00076798500000068)
++ [@nyeBoomCrisisBust2015] [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=1775338&ppg=244)
++ [@flandreauSeparationInformationLending2014] [link](http://dx.doi.org/10.1080/03585522.2014.950602)
 
 ## Primary sources
 
-+ [@duguidHowReadMoney1902] [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. It's a useful guide to reading some of the other primary sources in the course.]
-+ Push the kids into the Financial Times archive and others and make them find coverage they doubt to be objective
++ [@duguidHowReadMoney1902] [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century.]
++ I want you to search the [Financial Times Historical Archive](https://go.gale.com/ps/i.do?p=FTHA&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=FTHA) in its first decade, and find examples of material you believe was paid to be inserted.
 
 <!--chapter:end:10-week.Rmd-->
 
