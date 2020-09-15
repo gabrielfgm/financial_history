@@ -96,8 +96,8 @@ some time to review the formative and summative assessments in this course.
 
 ## General readings
 
-+ [@taylorOutsideLondonStock2020] (link)[https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article]
-+ [@nealEvolutionStructurePerformance2006] (link)[www.jstor.org/stable/41378447]
++ [@taylorOutsideLondonStock2020] [link](https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article)
++ [@nealEvolutionStructurePerformance2006] [link](www.jstor.org/stable/41378447)
 + [@morganStockExchangeIts1969] read Chapter 4 "The Development of an Organized Market"
 
 ## Primary sources
@@ -133,8 +133,8 @@ versus in 1847.
 
 ## General readings
 
-+ [@campbellGovernmentPolicyBritish2014]
-+ [@odlyzkoCollapseRailwayMania2011]
++ [@campbellGovernmentPolicyBritish2014] [link](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199688661.001.0001/acprof-9780199688661-chapter-4)
++ [@odlyzkoCollapseRailwayMania2011] [link](http://www.tandfonline.com/doi/abs/10.1080/21552851.2011.605556)
 
 ## Primary sources
 
@@ -151,8 +151,8 @@ versus in 1847.
 
 ## General readings
 
-+ [@campbellSubstitutesLegalProtection2011] (link)[https://www.jstor.org/stable/41262435]
-+ [@guinnaneContractualFreedomCorporate2017] (link)[https://doi.org/10.1017/S0007680517000733]
++ [@campbellSubstitutesLegalProtection2011] [link](https://www.jstor.org/stable/41262435)
++ [@guinnaneContractualFreedomCorporate2017] [link](https://doi.org/10.1017/S0007680517000733)
 
 ## Primary sources
 
@@ -166,8 +166,8 @@ versus in 1847.
 
 ## General readings
 
-+ [@bignonBagehotBeginnersMaking2012] (link)[https://doi.org/10.1111/j.1468-0289.2011.00606.x]
-+ [@xuReshapingGlobalTrade2020] (link)[https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf] You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/)
++ [@bignonBagehotBeginnersMaking2012] [link](https://doi.org/10.1111/j.1468-0289.2011.00606.x)
++ [@xuReshapingGlobalTrade2020] [link](https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf) You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
 + For background on the functioning of trade-finance please read this brief article [@accominottiRobustMoneyMarkets2020] [link](https://voxeu.org/article/robust-money-markets)
 
 ## Primary sources

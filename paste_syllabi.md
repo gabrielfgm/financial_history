@@ -152,12 +152,12 @@ assessments in this course.
 
 -   James Taylor, "Inside and Outside the London Stock Exchange,"
     *Enterprise & Society* (July 2020), 1--36.
-    (link)\[https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal\_article\]
+    [link](https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article)
 -   Larry Neal and Lance Davis, "The evolution of the structure and
     performance of the London Stock Exchange in the first global
     financial market, 1812-1914," *European Review of Economic History*
     (Oxford University Press, 2006), 10: 3, 279--300.
-    (link)\[www.jstor.org/stable/41378447\]
+    [link](www.jstor.org/stable/41378447)
 -   E. V. Morgan and W. A. Thomas, *The Stock Exchange* (Elek, 1969).
     read Chapter 4 "The Development of an Organized Market"
 
@@ -221,9 +221,11 @@ were codified in 1812 versus in 1847.
     and the 1847 Commercial Crisis," in *British Financial Crises since
     1825*, eds. Nicholas Dimsdale and Anthony Hotson (Oxford University
     Press, 2014).
+    [link](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199688661.001.0001/acprof-9780199688661-chapter-4)
 -   Andrew Odlyzko, "The collapse of the Railway Mania, the development
     of capital markets, and the forgotten role of Robert Lucas Nash,"
     *Accounting History Review* (November 2011), 21: 3, 309--345.
+    [link](http://www.tandfonline.com/doi/abs/10.1080/21552851.2011.605556)
 
 ## Primary sources
 
@@ -246,12 +248,12 @@ were codified in 1812 versus in 1847.
 
 -   Gareth Campbell and John D. Turner, "Substitutes for legal
     protection," *The Economic History Review* (2011), 64: 2, 571--597.
-    (link)\[https://www.jstor.org/stable/41262435\]
+    [link](https://www.jstor.org/stable/41262435)
 -   Timothy W. Guinnane, Ron Harris, and Naomi R. Lamoreaux,
     "Contractual Freedom and Corporate Governance in Britain in the Late
     Nineteenth and Early Twentieth Centuries," *Business History Review*
     (2017), 91: 2, 227--277.
-    (link)\[https://doi.org/10.1017/S0007680517000733\]
+    [link](https://doi.org/10.1017/S0007680517000733)
 
 ## Primary sources
 
@@ -276,11 +278,11 @@ were codified in 1812 versus in 1847.
 -   Vincent Bignon, Marc Flandreau, and Stefano Ugolini, "Bagehot for
     beginners," *The Economic History Review* (John Wiley & Sons, Ltd,
     May 2012), 65: 2, 580--608.
-    (link)\[https://doi.org/10.1111/j.1468-0289.2011.00606.x\]
+    [link](https://doi.org/10.1111/j.1468-0289.2011.00606.x)
 -   Chenzi Xu, "Reshaping Global Trade," *Working Paper* (May 2020), 54.
-    (link)\[https://chenzi-xu.com/docs/reshaping\_global\_trade\_Xu.pdf\]
-    You can listen to the author discuss her paper
-    [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/)
+    [link](https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf) You
+    can listen to the author discuss her paper
+    [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
 -   For background on the functioning of trade-finance please read this
     brief article Olivier Accominotti, Delio Lucena-Piquero, and Stefano
     Ugolini, "Robust money markets," *VoxEU.org* (April 2020).
