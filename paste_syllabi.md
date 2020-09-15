@@ -138,7 +138,7 @@ assessments in this course.
     page 21 and then skim a section on one country of your choice.[^4]
 -   *Ways and means*, *Ways and means *(London: Published by the author,
     1824).
-    (link)\[https://link.gale.com/apps/doc/U0104561666/MOME?u=ull\_ttda&sid=MOME&xid=045a6e68\]
+    [link](https://link.gale.com/apps/doc/U0104561666/MOME?u=ull_ttda&sid=MOME&xid=045a6e68)
     this is an example of a pamphlet written for investors in the 1820s.
 -   **Assignment**: go to [The Times Digital
     Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an
