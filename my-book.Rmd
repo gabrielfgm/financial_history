@@ -235,7 +235,7 @@ like.
 
 ## Primary sources
 
-+ Chance to read Hobson and maybe Norman Angell
+<!-- + Chance to read Hobson and maybe Norman Angell -->
 
 <!--chapter:end:12-week.Rmd-->
 
@@ -245,11 +245,12 @@ like.
 
 + [@eichengreenGlobalizingCapitalHistory2008]
 + [@eichengreenHowGlobalCurrencies2018]
++ [@ritschlReparationTransfersBorchardt1998]
 
 ## Primary sources
 
-+ Keynes, Mantoux
-+ Cunliffe report
++ [@keynesEconomicConsequencesPeace2019]
++ [@mantouxCarthaginianPeaceEconomic2000]
 
 <!--chapter:end:13-week.Rmd-->
 
@@ -261,7 +262,8 @@ like.
 
 ## Primary sources
 
-+ Norman Montagu's diaries from BoE archive?
+<!-- + Norman Montagu's diaries from BoE archive? -->
++ [@cunliffeCurrencyForeignExchanges1918]
 
 <!--chapter:end:14-week.Rmd-->
 
@@ -269,14 +271,14 @@ like.
 
 ## General readings
 
-+ Read maybe Balachandran
++ [@balachandranSterlingCrisisManaged1990]
 + [@ogleFunkMoneyEnd2020]
-+ Maylis (if her article is ready) and Schenk
++ [@schenkDeclineSterlingManaging2013]
 + [@cainBritishImperialismInnovation1993]
 
 ## Primary sources
 
-+ Not sure yet
+<!-- + Not sure yet -->
 
 <!--chapter:end:15-week.Rmd-->
 
@@ -284,7 +286,8 @@ like.
 
 ## General readings
 
-+ Not sure yet
++ [@michelj.oliverDownhillDevaluationBattle2007]
++ [@strangeSterlingBritishPolicy1971]
 
 ## Primary sources
 
@@ -298,8 +301,9 @@ like.
 
 ## General readings
 
-+ Maybe Schenk?
-+ Also Eichengreen book
++ [@schenkDeclineSterlingManaging2013]
++ [@eichengreenHowGlobalCurrencies2018]
++ 
 + [@greenAngloAmericanDevelopmentEuromarkets2016]
 + [@helleinerStatesReemergenceGlobal1994]
 
@@ -322,7 +326,7 @@ like.
 ## Primary sources
 
 + [@attardLondonStockExchange] [link](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick two interviews and listen to them or read transcript
-+ Document on FSA regulations from Tooze Chapter 3
+<!-- + Document on FSA regulations from Tooze Chapter 3 -->
 
 <!--chapter:end:18-week.Rmd-->
 
@@ -331,14 +335,15 @@ like.
 ## General readings
 
 + [@toozeCrashedHowDecade2018] ch. 2 and 3
-+ Boom and Bust chapter?
++ [@turnerNoMoreBoom2020]
 
 ## Primary sources
 
-+ Not totally sure yet
-+ Property Ladder season 6
+<!-- + Not totally sure yet -->
+<!-- + Property Ladder season 6 -->
+<!-- + Brookings Hamilton project vs IMF or BIS report? -->
 + [@mckayBigShort2015]
-+ Brookings Hamilton project vs IMF or BIS report?
++ [@FinancialCrisisInquiry2011] [link](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
 
 <!--chapter:end:19-week.Rmd-->
 
@@ -351,9 +356,9 @@ like.
 
 ## Primary sources
 
-+ Congressional testimony on CSPAN
-+ Parliamentary inquiry on banking stability
-+ Andy Haldane speach?
+<!-- + Congressional testimony on CSPAN -->
+<!-- + Parliamentary inquiry on banking stability -->
+<!-- + Andy Haldane speach? -->
 
 <!--chapter:end:20-week.Rmd-->
 

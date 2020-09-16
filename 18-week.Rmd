@@ -10,4 +10,4 @@
 ## Primary sources
 
 + [@attardLondonStockExchange] [link](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick two interviews and listen to them or read transcript
-+ Document on FSA regulations from Tooze Chapter 3
+<!-- + Document on FSA regulations from Tooze Chapter 3 -->

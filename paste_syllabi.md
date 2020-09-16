@@ -390,8 +390,7 @@ special language skills if you like.
 
 ## Primary sources
 
--   Chance to read Hobson and maybe Norman Angell
-
+<!-- + Chance to read Hobson and maybe Norman Angell -->
 <!--chapter:end:12-week.Rmd-->
 
 # The reparations problem
@@ -402,11 +401,16 @@ special language skills if you like.
     University Press, 2008).
 -   Barry Eichengreen, Arnaud Mehl, and Livia Chitu, *How Global
     Currencies Work* (Princeton: Princeton University Press, 2018).
+-   A. Ritschl, "Reparation transfers, the Borchardt hypothesis and the
+    Great Depression in Germany, 1929-32," *European Review of Economic
+    History* (April 1998), 2: 1, 49--72.
 
 ## Primary sources
 
--   Keynes, Mantoux
--   Cunliffe report
+-   John Maynard Keynes, *The economic consequences of the peace*, ed.
+    Michael Cox (2019).
+-   Etienne Mantoux, *The Carthaginian peace* (North Stratford, N.H.:
+    Ayer Co. Publishers, 2000).
 
 <!--chapter:end:13-week.Rmd-->
 
@@ -420,7 +424,11 @@ special language skills if you like.
 
 ## Primary sources
 
--   Norman Montagu's diaries from BoE archive?
+<!-- + Norman Montagu's diaries from BoE archive? -->
+
+-   Walter Cunliffe 1st Baron Cunliffe of Headley, *Currency and foreign
+    exchanges. First interim report of the Committee on Currency and
+    Foreign Exchanges After the War* (1918), 7.
 
 <!--chapter:end:14-week.Rmd-->
 
@@ -428,23 +436,29 @@ special language skills if you like.
 
 ## General readings
 
--   Read maybe Balachandran
+-   G. Balachandran, "The sterling crisis and the managed float regime
+    in India, 1921-1924," *The Indian Economic & Social History Review*
+    (March 1990), 27: 1, 1--31.
 -   Vanessa Ogle, "'Funk Money'," *Past & Present* (August 2020),
     gtaa001.
--   Maylis (if her article is ready) and Schenk
+-   Catherine R Schenk, *The decline of sterling* (Cambridge: Cambridge
+    Univ. Press, 2013).
 -   P. J. Cain and A. G. Hopkins, *British imperialism* (Longman, 1993).
 
 ## Primary sources
 
--   Not sure yet
-
+<!-- + Not sure yet -->
 <!--chapter:end:15-week.Rmd-->
 
 # The Bank of England and crises in the late 1970s
 
 ## General readings
 
--   Not sure yet
+-   Michel J. Oliver and Arran Hamilton, "Downhill from Devaluation,"
+    *The Economic History Review* (\[Economic History Society, Wiley\],
+    2007), 60: 3, 486--512.
+-   Susan Strange, "Sterling and British Policy," *International
+    Affairs* (April 1971), 47: 2, 302--315.
 
 ## Primary sources
 
@@ -461,11 +475,13 @@ special language skills if you like.
 
 ## General readings
 
--   Maybe Schenk?
--   Also Eichengreen book
--   Jeremy Green, "Anglo-American development, the Euromarkets, and the
-    deeper origins of neoliberal deregulation," *Review of International
-    Studies* (July 2016), 42: 3, 425--449.
+-   Catherine R Schenk, *The decline of sterling* (Cambridge: Cambridge
+    Univ. Press, 2013).
+-   Barry Eichengreen, Arnaud Mehl, and Livia Chitu, *How Global
+    Currencies Work* (Princeton: Princeton University Press, 2018).
+-   -   Jeremy Green, "Anglo-American development, the Euromarkets, and
+    the deeper origins of neoliberal deregulation," *Review of
+    International Studies* (July 2016), 42: 3, 425--449.
 -   Eric Helleiner, *States and the Reemergence of Global Finance*
     (Ithaca, UNITED STATES: Cornell University Press, 1994).
 
@@ -497,7 +513,7 @@ special language skills if you like.
 -   Bernard Attard, *London Stock Exchange oral history*.
     [link](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick
     two interviews and listen to them or read transcript
--   Document on FSA regulations from Tooze Chapter 3
+    <!-- + Document on FSA regulations from Tooze Chapter 3 -->
 
 <!--chapter:end:18-week.Rmd-->
 
@@ -506,15 +522,21 @@ special language skills if you like.
 ## General readings
 
 -   J. Adam Tooze, *Crashed* (Allen Lane, 2018). ch. 2 and 3
--   Boom and Bust chapter?
+-   John D. Turner and William Quinn, eds, "'No More Boom and Bust'," in
+    *Boom and Bust: A Global History of Financial Bubbles* (Cambridge:
+    Cambridge University Press, 2020), 170--192.
 
 ## Primary sources
 
--   Not totally sure yet
--   Property Ladder season 6
+<!-- + Not totally sure yet -->
+<!-- + Property Ladder season 6 -->
+<!-- + Brookings Hamilton project vs IMF or BIS report? -->
+
 -   Adam McKay, "The Big Short" (Paramount Pictures, Regency
     Enterprises, Plan B Entertainment, December 2015).
--   Brookings Hamilton project vs IMF or BIS report?
+-   *The Financial Crisis Inquiry Report*, *The Financial Crisis Inquiry
+    Report* (February 2011).
+    [link](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
 
 <!--chapter:end:19-week.Rmd-->
 
@@ -530,10 +552,9 @@ special language skills if you like.
 
 ## Primary sources
 
--   Congressional testimony on CSPAN
--   Parliamentary inquiry on banking stability
--   Andy Haldane speach?
-
+<!-- + Congressional testimony on CSPAN -->
+<!-- + Parliamentary inquiry on banking stability -->
+<!-- + Andy Haldane speach? -->
 <!--chapter:end:20-week.Rmd-->
 
 # Review week: Exam Prep

@@ -6,4 +6,5 @@
 
 ## Primary sources
 
-+ Norman Montagu's diaries from BoE archive?
+<!-- + Norman Montagu's diaries from BoE archive? -->
++ [@cunliffeCurrencyForeignExchanges1918]

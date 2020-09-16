@@ -4,8 +4,9 @@
 
 + [@eichengreenGlobalizingCapitalHistory2008]
 + [@eichengreenHowGlobalCurrencies2018]
++ [@ritschlReparationTransfersBorchardt1998]
 
 ## Primary sources
 
-+ Keynes, Mantoux
-+ Cunliffe report
++ [@keynesEconomicConsequencesPeace2019]
++ [@mantouxCarthaginianPeaceEconomic2000]

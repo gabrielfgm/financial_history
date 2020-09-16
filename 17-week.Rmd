@@ -2,8 +2,9 @@
 
 ## General readings
 
-+ Maybe Schenk?
-+ Also Eichengreen book
++ [@schenkDeclineSterlingManaging2013]
++ [@eichengreenHowGlobalCurrencies2018]
++ 
 + [@greenAngloAmericanDevelopmentEuromarkets2016]
 + [@helleinerStatesReemergenceGlobal1994]
 

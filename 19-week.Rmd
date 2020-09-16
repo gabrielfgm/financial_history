@@ -3,11 +3,12 @@
 ## General readings
 
 + [@toozeCrashedHowDecade2018] ch. 2 and 3
-+ Boom and Bust chapter?
++ [@turnerNoMoreBoom2020]
 
 ## Primary sources
 
-+ Not totally sure yet
-+ Property Ladder season 6
+<!-- + Not totally sure yet -->
+<!-- + Property Ladder season 6 -->
+<!-- + Brookings Hamilton project vs IMF or BIS report? -->
 + [@mckayBigShort2015]
-+ Brookings Hamilton project vs IMF or BIS report?
++ [@FinancialCrisisInquiry2011] [link](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
