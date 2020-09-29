@@ -25,6 +25,17 @@ around relevant primary sources, which we will link to ideas from the
 broader historiography. The focus of the module is the economic and
 financial history of London as a capital market.
 
+## About Group III Modules
+
+Group III modules are distinctive in that they are focused on a large
+body of primary source material (approximately 1,000 pages). Students
+develop a close familiarity with these 'specified primary sources' and
+prepare to be examined on their knowledge and understanding of this body
+of material at the end of the year. Group IIIs constitute the largest
+component of the BA, at 60 credits. Each Group III technically comprises
+two separate modules of 30 credits each: one leading to an end-of-year
+examination, and the other leading to a dissertation.
+
 # Background Reading & Sources {#background-reading-sources .unnumbered}
 
 ## Financial History Overviews
@@ -83,6 +94,116 @@ financial history of London as a capital market.
 -   [London Metropolitan
     Archives](https://www.cityoflondon.gov.uk/things-to-do/london-metropolitan-archives/the-collections/Pages/default.aspx)
 -   [The National Archives](https://nationalarchives.gov.uk/)
+
+# Assessment {#assessment .unnumbered}
+
+## Summative Assessment
+
+### Examination
+
+-   The exam is worth 30 credits; lasts 3 hours; requires 3 questions to
+    be answered.
+-   Format: you must EITHER answer two gobbet questions and one essay
+    question, OR one gobbet question and two essay questions.
+-   The exam paper will contain two gobbet questions and eight essay
+    questions.
+-   Gobbet questions: each gobbet question reproduces seven gobbets
+    (extracts) from primary sources and says: 'Comment upon THREE
+    gobbets from the following.' For each question, you give three
+    SEPARATE comments: one for each gobbet.
+-   Essay questions: these are similar in form to essay questions on
+    other types of module, but you are encouraged to draw on your
+    knowledge of primary sources, as well as relevant secondary
+    literature, in your answers.
+-   Whether the exam will be online or in person is *to be determined*.
+    Any changes to exam format stemming from public health measures will
+    be communicated to you during the year.
+
+### Dissertation
+
+-   10,000 words in length; submitted early on in Exam Term.
+-   Students devise a dissertation topic and title, taking guidance from
+    me.
+-   The dissertation must make use of primary source material: this may
+    include the primary sources covered in class, but students will
+    often make use of other primary source material which they have
+    identified.
+-   Each student is entitled to up to four half-hour meetings with me to
+    discuss their dissertation.
+-   Each student can submit to me a maximum of 3,000 words in draft form
+    for feedback in a meeting (as part of the allowance of four
+    half-hour meetings).
+-   Our session in week 6 (after reading week) in the first semester is
+    reserved as DISSERTATION WORKSHOP \#1: students will give short
+    presentations outlining their ideas for dissertation topics and
+    discussing the primary sources and secondary works that will be used
+    (details below).
+-   Our session in week 11 (after Christmas) in the second semester is
+    reserved as DISSERTATION WORKSHOP \#2: students will present their
+    progress and discuss how they have used primary sources as evidence
+    (details below).
+
+## Formative work
+
+-   Each student will be responsible for introducing the primary sources
+    4 times (twice each semester)
+    -   Given student numbers, this will be done in teams
+    -   'Presentation' slots for semester 1 will be picked in the first
+        session
+-   Each student will write 4 gobbets (600 words) and 2 essays (2,500
+    words) as practice.
+-   I will grade these assignments provided that they are submitted on
+    time.
+-   The essays are due by the end of Week 8, and the end of week 16.
+    -   You can simply email the work to me
+    -   You can write the essays sooner if you like
+-   The gobbets are due 1 week after you present
+    -   For more on how to write a gobbet see below
+    -   *You* pick the passage you want to write a gobbet about and
+        include the passage in your written response
+    -   It does not *have* to be on the topic you were presenting (but
+        why not?)
+
+### Notes on presentations
+
+-   These are not formal presentations, you are simply expected to
+    initiate the discussion of the sources by talking about them for \~5
+    minutes.
+-   There will be 2-3 presenters each week: you will need to work
+    together to coordinate your discussion
+    -   Each presenter should speak for \~5 minutes.
+-   If you want to make slides/use pictures/other media feel free
+-   Focus on the writers biases and motivations
+-   Focus on the relationship between the sources and the ideas in the
+    secondary material
+-   Focus on what kind of interesting questions the sources raise for
+    further discussion
+
+### How to write a gobbet
+
+A gobbet is a short commentary on an excerpt from a primary source. You
+should typically write 2 paragraphs (about 500-700 words).
+
+In your first paragraph, you should draw out basic information about the
+source such as *who* is the author, *what* are they commenting on and
+*why*. You may also need to state *when* and draw out which particular
+event or events the source is reacting to.
+
+Your second paragraph is a chance to show off your creativity: how does
+the source relate to some of the broader intellectual themes discussed
+in secondary sources? What is the *significance* of the source? What
+does it reveals that is *of interest to scholars* and why is it
+interesting to them? Did the source itself have consequences when read
+by others? Do we know, from other sources, that the author's views later
+changed? Does the identity of the author, or the timing of the source's
+writing, give it a particular value to the historian? You can also use
+this paragraph for some more sophisticated analyses of potential source
+biases, and for the contextualization of the source's claims.
+
+In grading a gobbet, your work in the first paragraph is necessary but
+not sufficient for a good grade: if you wrote a perfect first paragraph
+and an atrocious (or non-existent) second paragraph I would grade you
+between 55-60.
 
 <!--chapter:end:index.Rmd-->
 

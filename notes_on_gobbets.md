@@ -11,3 +11,7 @@
     * If you only nail para 1 Peter would be inclined to grade just below 60
 + For essays go for very broad topics and say what they will be
 + 
+
+## Copy the assessment stuff from Todd's syllabus
+
++ For plenary sessions need to create invitations 
