@@ -241,7 +241,7 @@ assessments in this course.
     [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
 -   Leland H. Jenks, *The Migration of British Capital to 1875*
     (Alfred A. Knopf, 1927).
-    [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
+    [link](https://ia801604.us.archive.org/29/items/in.ernet.dli.2015.224193/2015.224193.The-Migration_text.pdf)
     Chapter 2.[^2]
 -   Damian Clavel, "What's in a fraud? The many worlds of gregor
     MacGregor, 1817-1824," *Enterprise & Society* (Cambridge University

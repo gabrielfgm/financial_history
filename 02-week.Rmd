@@ -4,7 +4,7 @@
 
 <!-- + [@pettisVolatilityMachineEmerging2001] [link]() Chapter 4 -->
 + [@nealFinancialCrisis18251998] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
-+ [@jenksMigrationBritishCapital1927] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression.]
++ [@jenksMigrationBritishCapital1927] [link](https://ia801604.us.archive.org/29/items/in.ernet.dli.2015.224193/2015.224193.The-Migration_text.pdf) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression.]
 + [@clavel_2020] [link](https://doi.org/10.1017/eso.2020.25)^[This is a recent reinterpretation of the Poyais scheme.]
 
 ## Primary Sources
