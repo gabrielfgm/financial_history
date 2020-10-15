@@ -257,7 +257,7 @@ assessments in this course.
     of the American mining companies.* (London, 1825).
     [link](http://hdl.handle.net/2027/mdp.39015063950995) read up to
     page 21 and then skim a section on one country of your choice.[^4]
--   *Ways and means*, *Ways and means *(London: Published by the author,
+-   *Ways and means*, *Ways and means* (London: Published by the author,
     1824).
     [link](https://link.gale.com/apps/doc/U0104561666/MOME?u=ull_ttda&sid=MOME&xid=045a6e68)
     this is an example of a pamphlet written for investors in the 1820s.
@@ -278,7 +278,7 @@ assessments in this course.
     performance of the London Stock Exchange in the first global
     financial market, 1812-1914," *European Review of Economic History*
     (Oxford University Press, 2006), 10: 3, 279--300.
-    [link](www.jstor.org/stable/41378447)
+    [link](https://www.jstor.org/stable/41378447)
 -   E. V. Morgan and W. A. Thomas, *The Stock Exchange* (Elek, 1969).
     read Chapter 4 "The Development of an Organized Market"
 

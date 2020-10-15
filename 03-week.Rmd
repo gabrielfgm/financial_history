@@ -3,7 +3,7 @@
 ## General readings
 
 + [@taylorOutsideLondonStock2020] [link](https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article)
-+ [@nealEvolutionStructurePerformance2006] [link](www.jstor.org/stable/41378447)
++ [@nealEvolutionStructurePerformance2006] [link](https://www.jstor.org/stable/41378447)
 + [@morganStockExchangeIts1969] read Chapter 4 "The Development of an Organized Market"
 
 ## Primary sources
