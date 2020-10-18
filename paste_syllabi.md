@@ -305,27 +305,30 @@ were codified in 1812 versus in 1847.
 
 ## General readings
 
--   Barry J Eichengreen, *Globalizing capital* (Princeton: Princeton
-    University Press, 2008). Chapter on the Classical Gold Standard
+-   **Optional** for background: Barry J Eichengreen, *Globalizing
+    capital* (Princeton: Princeton University Press, 2008). Chapter on
+    the Classical Gold Standard
 -   Angela Redish, "The Evolution of the Gold Standard in England," *The
     Journal of Economic History* (Cambridge University Press, 1990), 50:
     4, 789--805. [link](https://doi.org/10.1017/S0022050700037827)
--   Michael D. Bordo, "The Gold Standard," in *A Retrospective on the
-    classical gold standard, 1821-1931*, eds. Michael D. Bordo and
-    Anna J. Schwartz (Chicago: University of Chicago Press, 1984),
-    23--120. [link](https://core.ac.uk/download/pdf/6900088.pdf)
 -   Marc Flandreau, "The French Crime of 1873," *The Journal of Economic
     History* (December 1996), 56: 4, 862--897.
     [link](https://doi.org/10.1017/S0022050700017502)
+-   **Optional** Michael D. Bordo, "The Gold Standard," in *A
+    Retrospective on the classical gold standard, 1821-1931*, eds.
+    Michael D. Bordo and Anna J. Schwartz (Chicago: University of
+    Chicago Press, 1984), 23--120.
+    [link](https://core.ac.uk/download/pdf/6900088.pdf)
 
 ## Primary sources
 
--   David Hume, *Essays*, ed. Eugene F. Miller (Indianapolis, IN, United
-    States: Liberty Fund, Incorporated, 1985). Chapter "Of the balance
-    of trade"
+-   **Optional** for intellectual history David Hume, *Essays*, ed.
+    Eugene F. Miller (Indianapolis, IN, United States: Liberty Fund,
+    Incorporated, 1985). Chapter "Of the balance of trade"
     [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3327325&ppg=361)
--   George Joachim Goschen Goschen, *The theory of the foreign
-    exchanges.* (London : 1916). Chapter VI
+-   **Optional** for intellectual history George Joachim Goschen
+    Goschen, *The theory of the foreign exchanges.* (London : 1916).
+    Chapter VI
     [link](https://hdl.handle.net/2027/uc2.ark:/13960/t9k35zr8s)
 -   Charles Wood 1st Vct. Halifax, *Report from the Royal Commission on
     International Coinage; together with the minutes of evidence and
