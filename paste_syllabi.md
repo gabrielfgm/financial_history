@@ -313,7 +313,9 @@ were codified in 1812 versus in 1847.
     4, 789--805. [link](https://doi.org/10.1017/S0022050700037827)
 -   Marc Flandreau, "The French Crime of 1873," *The Journal of Economic
     History* (December 1996), 56: 4, 862--897.
-    [link](https://doi.org/10.1017/S0022050700017502)
+    [link](https://doi.org/10.1017/S0022050700017502). Focus on the
+    historical arguments about the rise of the Gold Standard and you can
+    skip the mathematical model.
 -   **Optional** Michael D. Bordo, "The Gold Standard," in *A
     Retrospective on the classical gold standard, 1821-1931*, eds.
     Michael D. Bordo and Anna J. Schwartz (Chicago: University of
@@ -330,9 +332,11 @@ were codified in 1812 versus in 1847.
     Goschen, *The theory of the foreign exchanges.* (London : 1916).
     Chapter VI
     [link](https://hdl.handle.net/2027/uc2.ark:/13960/t9k35zr8s)
--   Charles Wood 1st Vct. Halifax, *Report from the Royal Commission on
-    International Coinage; together with the minutes of evidence and
-    appendix.* (House of Commons, 1868).
+-   Read the summary report (p. 5) up to page XI, the testimony of
+    Sampson Samuel Lloyd (pp. 24), and the testimony of William Stanley
+    Jevons (pp. 68): Charles Wood 1st Vct. Halifax, *Report from the
+    Royal Commission on International Coinage; together with the minutes
+    of evidence and appendix.* (House of Commons, 1868).
     [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1867-044213/usgLogRstClick!!?accountid=11862)
 
 <!--chapter:end:04-week.Rmd-->
