@@ -65,12 +65,11 @@ Group III modules are distinctive in that they are focused on a large body of pr
 
 ### Examination
 
-+ The exam is worth 30 credits; lasts 3 hours; requires 3 questions to be answered.
++ The exam is worth 30 credits. It will be **online**. It will probably last 24 hours although more details will be provided closer to the exam date.
 + Format: you must EITHER answer two gobbet questions and one essay question, OR one gobbet question and two essay questions.
 + The exam paper will contain two gobbet questions and eight essay questions.
 + Gobbet questions: each gobbet question reproduces seven gobbets (extracts) from primary sources and says: ‘Comment upon THREE gobbets from the following.’ For each question, you give three SEPARATE comments: one for each gobbet.
 + Essay questions: these are similar in form to essay questions on other types of module, but you are encouraged to draw on your knowledge of primary sources, as well as relevant secondary literature, in your answers.
-+ Whether the exam will be online or in person is *to be determined*. Any changes to exam format stemming from public health measures will be communicated to you during the year.
 
 ### Dissertation 
 
@@ -91,15 +90,12 @@ meeting (as part of the allowance of four half-hour meetings).
 + Each student will be responsible for introducing the primary sources 4 times (twice each semester)
     - Given student numbers, this will be done in teams
     - 'Presentation' slots for semester 1 will be picked in the first session
-+ Each student will write 4 gobbets (600 words) and 2 essays (2,500 words) as practice.
++ Each student will write 4 gobbets (500 words) and 2 essays (1,500 words) as practice.
 + I will grade these assignments provided that they are submitted on time.
-+ The essays are due by the end of Week 8, and the end of week 16.
++ The essays are due by the end of Semester 1 and 2 respectively.
     - You can simply email the work to me
     - You can write the essays sooner if you like
-+ The gobbets are due 1 week after you present
-    - For more on how to write a gobbet see below
-    - *You* pick the passage you want to write a gobbet about and include the passage in your written response
-    - It does not *have* to be on the topic you were presenting (but why not?)
+    - I need to get your last essays at least 3 weeks before the exam if you want my feedback in time.
     
 ### Notes on presentations
 
@@ -111,7 +107,7 @@ meeting (as part of the allowance of four half-hour meetings).
 + Focus on the relationship between the sources and the ideas in the secondary material
 + Focus on what kind of interesting questions the sources raise for further discussion
 
-### How to write a gobbet
+## How to write a gobbet
 
 A gobbet is a short commentary on an excerpt from a primary source. You should typically write 2 paragraphs (about 500-700 words).
 
@@ -284,7 +280,7 @@ like.
 
 ## Primary sources
 
-+ [@duguidHowReadMoney1902] [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century.]
++ [@duguidHowReadMoney1902] [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)^[This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century.] Read chapters XXIII, XXIV and XXV.
 + I want you to search the [Financial Times Historical Archive](https://go.gale.com/ps/i.do?p=FTHA&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=FTHA) in its first decade, and find examples of material you believe was paid to be inserted.
 
 <!--chapter:end:10-week.Rmd-->
