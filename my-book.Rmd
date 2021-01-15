@@ -293,11 +293,13 @@ like.
 
 ## General readings
 
-+ [@toozeWorldEconomyGreat2014]
++ [@robertsSavingCityGreat2014]
++ [@ExtraordinaryStoryBritain]
 
 ## Primary sources
 
-<!-- + Chance to read Hobson and maybe Norman Angell -->
++ [@keynesWarFinancialSystem1914]
++ [The Bank of England 1914-21 (Unpublished War History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1)
 
 <!--chapter:end:12-week.Rmd-->
 
