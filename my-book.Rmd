@@ -293,13 +293,13 @@ like.
 
 ## General readings
 
-+ [@robertsSavingCityGreat2014]
-+ [@ExtraordinaryStoryBritain]
++ [@robertsSavingCityGreat2014] [link](http://ebookcentral.proquest.com/lib/kcl/detail.action?docID=1538366) Chapter 1.
++ [@ExtraordinaryStoryBritain] [link](https://voxeu.org/content/extraordinary-story-britain-s-early-efforts-finance-first-world-war)
 
 ## Primary sources
 
-+ [@keynesWarFinancialSystem1914]
-+ [The Bank of England 1914-21 (Unpublished War History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1)
++ [@keynesWarFinancialSystem1914] [link](https://doi.org/10.2307/2222023)
++ [The Bank of England 1914-21 (Unpublished War History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1) Read Vol. 4 Chapter X.
 
 <!--chapter:end:12-week.Rmd-->
 
