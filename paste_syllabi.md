@@ -101,8 +101,9 @@ examination, and the other leading to a dissertation.
 
 ### Examination
 
--   The exam is worth 30 credits; lasts 3 hours; requires 3 questions to
-    be answered.
+-   The exam is worth 30 credits. It will be **online**. It will
+    probably last 24 hours although more details will be provided closer
+    to the exam date.
 -   Format: you must EITHER answer two gobbet questions and one essay
     question, OR one gobbet question and two essay questions.
 -   The exam paper will contain two gobbet questions and eight essay
@@ -115,9 +116,6 @@ examination, and the other leading to a dissertation.
     other types of module, but you are encouraged to draw on your
     knowledge of primary sources, as well as relevant secondary
     literature, in your answers.
--   Whether the exam will be online or in person is *to be determined*.
-    Any changes to exam format stemming from public health measures will
-    be communicated to you during the year.
 
 ### Dissertation
 
@@ -150,19 +148,15 @@ examination, and the other leading to a dissertation.
     -   Given student numbers, this will be done in teams
     -   'Presentation' slots for semester 1 will be picked in the first
         session
--   Each student will write 4 gobbets (600 words) and 2 essays (2,500
+-   Each student will write 4 gobbets (500 words) and 2 essays (1,500
     words) as practice.
 -   I will grade these assignments provided that they are submitted on
     time.
--   The essays are due by the end of Week 8, and the end of week 16.
+-   The essays are due by the end of Semester 1 and 2 respectively.
     -   You can simply email the work to me
     -   You can write the essays sooner if you like
--   The gobbets are due 1 week after you present
-    -   For more on how to write a gobbet see below
-    -   *You* pick the passage you want to write a gobbet about and
-        include the passage in your written response
-    -   It does not *have* to be on the topic you were presenting (but
-        why not?)
+    -   I need to get your last essays at least 3 weeks before the exam
+        if you want my feedback in time.
 
 ### Notes on presentations
 
@@ -179,7 +173,7 @@ examination, and the other leading to a dissertation.
 -   Focus on what kind of interesting questions the sources raise for
     further discussion
 
-### How to write a gobbet
+## How to write a gobbet
 
 A gobbet is a short commentary on an excerpt from a primary source. You
 should typically write 2 paragraphs (about 500-700 words).
@@ -274,10 +268,8 @@ assessments in this course.
 -   James Taylor, "Inside and Outside the London Stock Exchange,"
     *Enterprise & Society* (July 2020), 1--36.
     [link](https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article)
--   Larry Neal and Lance Davis, "The evolution of the structure and
-    performance of the London Stock Exchange in the first global
-    financial market, 1812-1914," *European Review of Economic History*
-    (Oxford University Press, 2006), 10: 3, 279--300.
+-   [**???**]{.citeproc-not-found
+    data-reference-id="nealEvolutionStructurePerformance2006"}
     [link](https://www.jstor.org/stable/41378447)
 -   E. V. Morgan and W. A. Thomas, *The Stock Exchange* (Elek, 1969).
     read Chapter 4 "The Development of an Organized Market"
@@ -498,6 +490,7 @@ special language skills if you like.
 
 -   Charles Duguid, *How to Read the Money Article* (E. Wilson, 1902).
     [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf)[^6]
+    Read chapters XXIII, XXIV and XXV.
 -   I want you to search the [Financial Times Historical
     Archive](https://go.gale.com/ps/i.do?p=FTHA&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=FTHA)
     in its first decade, and find examples of material you believe was
@@ -513,12 +506,24 @@ special language skills if you like.
 
 ## General readings
 
--   Adam Tooze and Ted Fertik, "The World Economy and the Great War,"
-    *Geschichte und Gesellschaft* (2014), 40, 214--238.
+-   Richard Roberts, *Saving the City* (Oxford, UNITED KINGDOM: Oxford
+    University Press USA - OSO, 2014).
+    [link](http://ebookcentral.proquest.com/lib/kcl/detail.action?docID=1538366)
+    Chapter 1.
+-   "The extraordinary story of Britain's early efforts to finance the
+    First World War \| VOX, CEPR Policy Portal,"
+    (https://voxeu.org/content/extraordinary-story-britain-s-early-efforts-finance-first-world-war).
+    [link](https://voxeu.org/content/extraordinary-story-britain-s-early-efforts-finance-first-world-war)
 
 ## Primary sources
 
-<!-- + Chance to read Hobson and maybe Norman Angell -->
+-   J. M. Keynes, "War and the Financial System, August, 1914," *The
+    Economic Journal* (September 1914), 24: 95, 460--486.
+    [link](https://doi.org/10.2307/2222023)
+-   [The Bank of England 1914-21 (Unpublished War
+    History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1)
+    Read Vol. 4 Chapter X.
+
 <!--chapter:end:12-week.Rmd-->
 
 # The reparations problem
@@ -526,19 +531,22 @@ special language skills if you like.
 ## General readings
 
 -   Barry J Eichengreen, *Globalizing capital* (Princeton: Princeton
-    University Press, 2008).
--   Barry Eichengreen, Arnaud Mehl, and Livia Chitu, *How Global
-    Currencies Work* (Princeton: Princeton University Press, 2018).
+    University Press, 2008). Ch. 3 interwar instability
+    [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5782434&ppg=56)
 -   A. Ritschl, "Reparation transfers, the Borchardt hypothesis and the
     Great Depression in Germany, 1929-32," *European Review of Economic
     History* (April 1998), 2: 1, 49--72.
+    [link](http://www.piketty.pse.ens.fr/files/Ritschl1998.pdf)
 
 ## Primary sources
 
 -   John Maynard Keynes, *The economic consequences of the peace*, ed.
-    Michael Cox (2019).
+    Michael Cox (2019). Read "Germany's capacity to pay", "The German
+    Counter-Proposals", and "Remedies"
+    [link](https://oll.libertyfund.org/title/keynes-the-economic-consequences-of-the-peace)
 -   Etienne Mantoux, *The Carthaginian peace* (North Stratford, N.H.:
-    Ayer Co. Publishers, 2000).
+    Ayer Co. Publishers, 2000). Read Chapter 2 "Prophecy and
+    Persuasion". I will put the pdf on Keats.
 
 <!--chapter:end:13-week.Rmd-->
 

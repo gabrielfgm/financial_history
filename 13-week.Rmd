@@ -2,11 +2,10 @@
 
 ## General readings
 
-+ [@eichengreenGlobalizingCapitalHistory2008]
-+ [@eichengreenHowGlobalCurrencies2018]
-+ [@ritschlReparationTransfersBorchardt1998]
++ [@eichengreenGlobalizingCapitalHistory2008] Ch. 3 interwar instability [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=5782434&ppg=56)
++ [@ritschlReparationTransfersBorchardt1998] [link](http://www.piketty.pse.ens.fr/files/Ritschl1998.pdf)
 
 ## Primary sources
 
-+ [@keynesEconomicConsequencesPeace2019]
-+ [@mantouxCarthaginianPeaceEconomic2000]
++ [@keynesEconomicConsequencesPeace2019] Read "Germany's capacity to pay", "The German Counter-Proposals", and "Remedies" [link](https://oll.libertyfund.org/title/keynes-the-economic-consequences-of-the-peace)
++ [@mantouxCarthaginianPeaceEconomic2000] Read Chapter 2 "Prophecy and Persuasion". I will put the pdf on Keats.
