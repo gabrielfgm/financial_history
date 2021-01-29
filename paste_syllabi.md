@@ -550,21 +550,29 @@ special language skills if you like.
 
 <!--chapter:end:13-week.Rmd-->
 
-# The collapse of the gold standard
+# The gold standard and the great depression
 
 ## General readings
 
--   Olivier Accominotti and Barry Eichengreen, "The mother of all sudden
-    stops," *The Economic History Review* (John Wiley & Sons, Ltd, May
-    2016), 69: 2, 469--492. [link](https://doi.org/10.1111/ehr.12128)
+-   Ben Bernanke and Harold James, "The Gold Standard, Deflation, and
+    Financial Crisis in the Great Depression," in *Financial Markets and
+    Financial Crises*, ed. R. Glenn Hubbard (Cambridge, MA: National
+    Bureau of Economic Research, October 1990), w3488.
+    [link](http://www.nber.org/papers/w3488.pdf)
+-   Barry Eichengreen and Peter Temin, "The Gold Standard and the Great
+    Depression," *Contemporary European History* (2000), 9: 2, 26.
+    [link](https://www.jstor.org/stable/20081742)
 
 ## Primary sources
 
 <!-- + Norman Montagu's diaries from BoE archive? -->
 
--   Walter Cunliffe 1st Baron Cunliffe of Headley, *Currency and foreign
-    exchanges. First interim report of the Committee on Currency and
-    Foreign Exchanges After the War* (1918), 7.
+-   J. C. Stamp, "The Report of the Macmillan Committee," *The Economic
+    Journal* (September 1931), 41: 163, 424.
+    [link](https://doi.org/10.2307/2223900)
+-   Baron Macmillen of Aberfeldy MacMillan, *Report of the Committee on
+    finance and industry* (1931), 329.
+    [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1930-031248?accountid=11862)
 
 <!--chapter:end:14-week.Rmd-->
 
