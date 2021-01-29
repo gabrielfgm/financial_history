@@ -317,16 +317,18 @@ like.
 
 <!--chapter:end:13-week.Rmd-->
 
-# The collapse of the gold standard
+# The gold standard and the great depression
 
 ## General readings
 
-+ [@accominottiMotherAllSudden2016] [link](https://doi.org/10.1111/ehr.12128)
++ [@bernankeGoldStandardDeflation1990] [link](http://www.nber.org/papers/w3488.pdf)
++ [@eichengreenGoldStandardGreat2000] [link](https://www.jstor.org/stable/20081742)
 
 ## Primary sources
 
 <!-- + Norman Montagu's diaries from BoE archive? -->
-+ [@cunliffeCurrencyForeignExchanges1918]
++ [@stampReportMacmillanCommittee1931] [link](https://doi.org/10.2307/2223900)
++ [@macmillanReportCommitteeFinance1931] [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1930-031248?accountid=11862)
 
 <!--chapter:end:14-week.Rmd-->
 
