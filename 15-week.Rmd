@@ -2,11 +2,9 @@
 
 ## General readings
 
-+ [@balachandranSterlingCrisisManaged1990]
-+ [@ogleFunkMoneyEnd2020]
-+ [@schenkDeclineSterlingManaging2013]
-+ [@cainBritishImperialismInnovation1993]
++ [@balachandranSterlingCrisisManaged1990] [link](http://journals.sagepub.com/doi/10.1177/001946469002700101)
+    - This provides some helpful insight into the use of the colonies to manage the currency. Read it if you have time.
++ [@ogleFunkMoneyEnd2020] [link](https://doi.org/10.1093/pastj/gtaa001)
++ [@schenkDeclineSterlingManaging2013] Chapters 2 and 3 (a bit long but a lot of graphs), pdf is on Keats
 
-## Primary sources
-
-<!-- + Not sure yet -->
+## No Primary Sources this week

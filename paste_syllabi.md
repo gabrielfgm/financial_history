@@ -583,15 +583,17 @@ special language skills if you like.
 -   G. Balachandran, "The sterling crisis and the managed float regime
     in India, 1921-1924," *The Indian Economic & Social History Review*
     (March 1990), 27: 1, 1--31.
+    [link](http://journals.sagepub.com/doi/10.1177/001946469002700101)
+    -   This provides some helpful insight into the use of the colonies
+        to manage the currency. Read it if you have time.
 -   Vanessa Ogle, "'Funk Money'," *Past & Present* (August 2020),
-    gtaa001.
+    gtaa001. [link](https://doi.org/10.1093/pastj/gtaa001)
 -   Catherine R Schenk, *The decline of sterling* (Cambridge: Cambridge
-    Univ. Press, 2013).
--   P. J. Cain and A. G. Hopkins, *British imperialism* (Longman, 1993).
+    Univ. Press, 2013). Chapters 2 and 3 (a bit long but a lot of
+    graphs), pdf is on Keats
 
-## Primary sources
+## No Primary Sources this week
 
-<!-- + Not sure yet -->
 <!--chapter:end:15-week.Rmd-->
 
 # The Bank of England and crises in the late 1970s
