@@ -596,24 +596,27 @@ special language skills if you like.
 
 <!--chapter:end:15-week.Rmd-->
 
-# The Bank of England and crises in the late 1970s
+# The Bank of England and crises in the 1970s
 
 ## General readings
 
 -   Michel J. Oliver and Arran Hamilton, "Downhill from Devaluation,"
     *The Economic History Review* (\[Economic History Society, Wiley\],
-    2007), 60: 3, 486--512.
+    2007), 60: 3, 486--512. [link](www.jstor.org/stable/4502107)
 -   Susan Strange, "Sterling and British Policy," *International
     Affairs* (April 1971), 47: 2, 302--315.
+    [link](https://doi.org/10.2307/2613930)
+-   C Dow, *Inside the bank of england* (Palgrave Macmillan, 2014).
+    Chapter 1
+    -   This is more like a primary source. PDF on Keats.
 
 ## Primary sources
 
--   Bank of England, "The secondary banking crisis and the Bank of
-    England's support operations," *Quarterly Bulletin* (1978), Q2.
 -   "Oral Histories \| Centre for Financial History."
     [link](https://www.centreforfinancialhistory.org/oral-histories/)
--   C Dow, *Inside the bank of england* (Palgrave Macmillan, 2014).
-    Chapter 1
+    -   These are a series of interviews with participants in the
+        'Lifeboat Operation'. There are 5 interviews and we will divide
+        up who covers them in Week 15.
 
 <!--chapter:end:16-week.Rmd-->
 
@@ -621,21 +624,25 @@ special language skills if you like.
 
 ## General readings
 
--   Catherine R Schenk, *The decline of sterling* (Cambridge: Cambridge
-    Univ. Press, 2013).
--   Barry Eichengreen, Arnaud Mehl, and Livia Chitu, *How Global
-    Currencies Work* (Princeton: Princeton University Press, 2018).
--   -   Jeremy Green, "Anglo-American development, the Euromarkets, and
-    the deeper origins of neoliberal deregulation," *Review of
-    International Studies* (July 2016), 42: 3, 425--449.
+-   Catherine R. Schenk, "The Origins of the Eurodollar Market in
+    London," *Explorations in Economic History* (April 1998), 35: 2,
+    221--238.
+    [link](http://www.sciencedirect.com/science/article/pii/S0014498398906933)
+-   Jeremy Green, "Anglo-American development, the Euromarkets, and the
+    deeper origins of neoliberal deregulation," *Review of International
+    Studies* (July 2016), 42: 3, 425--449.
+    [link](https://www.cambridge.org/core/product/identifier/S0260210515000480/type/journal_article)
 -   Eric Helleiner, *States and the Reemergence of Global Finance*
-    (Ithaca, UNITED STATES: Cornell University Press, 1994).
+    (Ithaca, UNITED STATES: Cornell University Press, 1994). Chapter 4
+    "Support for the Euromarket in the 1960s"
+    [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=3425975&ppg=94)
 
 ## Primary sources
 
 -   Kathleen Burk, "Witness Seminar on the Origins and Early Development
     of the Eurobond Market," *Contemporary European History* (March
     1992), 1: 1, 65--87.
+    [link](https://doi.org/10.1017/S0960777300005063)
 
 <!--chapter:end:17-week.Rmd-->
 
@@ -647,19 +654,24 @@ special language skills if you like.
     Exchange, 18001986," *Financial History Review* (April 2000), 7: 1,
     5--24.
     [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27B5A3F3C440C45D2B633E603C80C185/S0968565000000019a.pdf/making_a_market_the_jobbers_of_the_london_stock_exchange_18001986.pdf)
+    -   Read this as background on the broker/jobber distinction if you
+        are having trouble remembering week 4, as well as a commentary
+        on this week's primary source.
 -   Paul Thompson, "The Pyrrhic Victory of Gentlemanly Capitalism,"
-    *Journal of Contemporary History* (2020), 23.
+    *Journal of Contemporary History* (1997), 32, 23.
+    [link](https://www.jstor.org/stable/260962)
 -   Christopher Bellringer and Ranald Michie, "Big Bang in the City of
     London," *Financial History Review* (August 2014), 21: 2, 111--137.
--   Robert Wade, "Robert Wade, Financial Regime Change?" *New Left
-    Review* (2008), 53: September-October.
+    [link](https://www.cambridge.org/core/product/identifier/S0968565014000092/type/journal_article)
+-   Robert Wade, "Financial Regime Change?" *New Left Review* (2008),
+    53: September-October.
+    [link](https://newleftreview.org/issues/II53/articles/robert-wade-financial-regime-change)
 
 ## Primary sources
 
 -   Bernard Attard, *London Stock Exchange oral history*.
     [link](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick
     two interviews and listen to them or read transcript
-    <!-- + Document on FSA regulations from Tooze Chapter 3 -->
 
 <!--chapter:end:18-week.Rmd-->
 

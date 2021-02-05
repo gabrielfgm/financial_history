@@ -1,12 +1,14 @@
-# The Bank of England and crises in the late 1970s
+# The Bank of England and crises in the 1970s
 
 ## General readings
 
-+ [@michelj.oliverDownhillDevaluationBattle2007]
-+ [@strangeSterlingBritishPolicy1971]
++ [@michelj.oliverDownhillDevaluationBattle2007] [link](www.jstor.org/stable/4502107)
++ [@strangeSterlingBritishPolicy1971] [link](https://doi.org/10.2307/2613930)
++ [@dowBankEnglandMemoirs2014] Chapter 1
+    - This is more like a primary source. PDF on Keats.
 
 ## Primary sources
 
-+ [@bankofenglandSecondaryBankingCrisis1978]
 + [@OralHistoriesCentre] [link](https://www.centreforfinancialhistory.org/oral-histories/)
-+ [@dowBankEnglandMemoirs2014] Chapter 1
+    - These are a series of interviews with participants in the 'Lifeboat Operation'. There are 5 interviews and we will divide up who covers them in Week 15.
+

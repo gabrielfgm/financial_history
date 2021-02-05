@@ -3,11 +3,12 @@
 ## General readings
 
 + [@attardMakingMarketJobbers2000] [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27B5A3F3C440C45D2B633E603C80C185/S0968565000000019a.pdf/making_a_market_the_jobbers_of_the_london_stock_exchange_18001986.pdf)
-+ [@thompsonPyrrhicVictoryGentlemanly2020]
-+ [@bellringerBigBangCity2014]
-+ [@wadeFinancialRegimeChange2008]
+    - Read this as background on the broker/jobber distinction if you are having trouble remembering week 4, as well as a commentary on this week's primary source.
++ [@thompsonPyrrhicVictoryGentlemanly1997] [link](https://www.jstor.org/stable/260962)
++ [@bellringerBigBangCity2014] [link](https://www.cambridge.org/core/product/identifier/S0968565014000092/type/journal_article)
++ [@wadeFinancialRegimeChange2008] [link](https://newleftreview.org/issues/II53/articles/robert-wade-financial-regime-change)
 
 ## Primary sources
 
 + [@attardLondonStockExchange] [link](https://sas-space.sas.ac.uk/view/collections/lseoh.html) Pick two interviews and listen to them or read transcript
-<!-- + Document on FSA regulations from Tooze Chapter 3 -->
+
