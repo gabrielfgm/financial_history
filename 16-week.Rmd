@@ -2,13 +2,17 @@
 
 ## General readings
 
-+ [@michelj.oliverDownhillDevaluationBattle2007] [link](www.jstor.org/stable/4502107)
-+ [@strangeSterlingBritishPolicy1971] [link](https://doi.org/10.2307/2613930)
-+ [@dowBankEnglandMemoirs2014] Chapter 1
-    - This is more like a primary source. PDF on Keats.
++ [@reidSecondaryBankingCrisis2003] Read chapters 1,2 and 3
 
 ## Primary sources
 
 + [@OralHistoriesCentre] [link](https://www.centreforfinancialhistory.org/oral-histories/)
     - These are a series of interviews with participants in the 'Lifeboat Operation'. There are 5 interviews and we will divide up who covers them in Week 15.
 
+## Additional reading
+
++ [@michelj.oliverDownhillDevaluationBattle2007] [link](www.jstor.org/stable/4502107)
++ [@strangeSterlingBritishPolicy1971] [link](https://doi.org/10.2307/2613930)
++ [@dowBankEnglandMemoirs2014] Chapter 1
+    - This is more like a primary source. PDF on Keats.
++ [@bankofenglandSecondaryBankingCrisis1978]

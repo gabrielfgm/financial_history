@@ -99,7 +99,7 @@ include the primary sources covered in class, but students will often make use o
     - You can write the essays sooner if you like
     - I need to get your last essays at least 3 weeks before the exam if you want my feedback in time.
 
-# How to write a gobbet
+## How to write a gobbet
 
 A gobbet is a short commentary on an excerpt from a primary source. You should typically write 2 paragraphs (about 500-700 words).
 
@@ -263,7 +263,7 @@ like.
 ## General readings
 
 + [@bignonBagehotBeginnersMaking2012] [link](https://doi.org/10.1111/j.1468-0289.2011.00606.x)
-+ [@xuReshapingGlobalTrade2020] [link](https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf) You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
++ [@xuRESHAPINGGLOBALTRADE] [link](https://doi.org/10.1093/qje/qjac016) You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
 + [@accominottiOriginationDistributionMoney2021] [link](https://doi.org/10.1111/ehr.13049)
 
 ## Primary sources
@@ -353,16 +353,20 @@ like.
 
 ## General readings
 
-+ [@michelj.oliverDownhillDevaluationBattle2007] [link](www.jstor.org/stable/4502107)
-+ [@strangeSterlingBritishPolicy1971] [link](https://doi.org/10.2307/2613930)
-+ [@dowBankEnglandMemoirs2014] Chapter 1
-    - This is more like a primary source. PDF on Keats.
++ [@reidSecondaryBankingCrisis2003] Read chapters 1,2 and 3
 
 ## Primary sources
 
 + [@OralHistoriesCentre] [link](https://www.centreforfinancialhistory.org/oral-histories/)
     - These are a series of interviews with participants in the 'Lifeboat Operation'. There are 5 interviews and we will divide up who covers them in Week 15.
 
+## Additional reading
+
++ [@michelj.oliverDownhillDevaluationBattle2007] [link](www.jstor.org/stable/4502107)
++ [@strangeSterlingBritishPolicy1971] [link](https://doi.org/10.2307/2613930)
++ [@dowBankEnglandMemoirs2014] Chapter 1
+    - This is more like a primary source. PDF on Keats.
++ [@bankofenglandSecondaryBankingCrisis1978]
 
 <!--chapter:end:16-week.Rmd-->
 

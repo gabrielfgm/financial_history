@@ -3,7 +3,7 @@
 ## General readings
 
 + [@bignonBagehotBeginnersMaking2012] [link](https://doi.org/10.1111/j.1468-0289.2011.00606.x)
-+ [@xuReshapingGlobalTrade2020] [link](https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf) You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
++ [@xuRESHAPINGGLOBALTRADE] [link](https://doi.org/10.1093/qje/qjac016) You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
 + [@accominottiOriginationDistributionMoney2021] [link](https://doi.org/10.1111/ehr.13049)
 
 ## Primary sources

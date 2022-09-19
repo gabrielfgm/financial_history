@@ -99,7 +99,7 @@ include the primary sources covered in class, but students will often make use o
     - You can write the essays sooner if you like
     - I need to get your last essays at least 3 weeks before the exam if you want my feedback in time.
 
-# How to write a gobbet
+## How to write a gobbet
 
 A gobbet is a short commentary on an excerpt from a primary source. You should typically write 2 paragraphs (about 500-700 words).
 
