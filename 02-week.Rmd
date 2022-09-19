@@ -1,16 +1,21 @@
 # Lending money abroad: the global sovereign debt crisis of 1825
 
+We will start with what is often viewed as the first international sovereign debt crisis centered on London. We will try to get a sense for the nature of the 1825 crisis and its causes, and then think through the primary sources in terms of what they tell us about the information environment for speculators in the early 19th century.
+
 ## General Readings
 
-<!-- + [@pettisVolatilityMachineEmerging2001] [link]() Chapter 4 -->
-+ [@nealFinancialCrisis18251998] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
 + [@jenksMigrationBritishCapital1927] [link](https://ia801604.us.archive.org/29/items/in.ernet.dli.2015.224193/2015.224193.The-Migration_text.pdf) Chapter 2.^[Jenk's book is an interesting financial history up to 1875 written in the 1920's before the Great Depression.]
 + [@clavel_2020] [link](https://doi.org/10.1017/eso.2020.25)^[This is a recent reinterpretation of the Poyais scheme.]
 
 ## Primary Sources
 
-+ [@tookeHistoryPricesVol1838] [link](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
 + [@disraeliInquiryPlansProgress1825] [link](http://hdl.handle.net/2027/mdp.39015063950995) read up to page 21 and then skim a section on one country of your choice.^[Disraeli was involved in speculation in South America with an investor named J. D. Powles who also commissioned him to write this promotional pamphlet.]
 + [@WaysMeansEvery1824] [link](https://link.gale.com/apps/doc/U0104561666/MOME?u=ull_ttda&sid=MOME&xid=045a6e68) this is an example of a pamphlet written for investors in the 1820s.
-+ **Assignment**: go to [The Times Digital Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an article about the Poyais settlement from the 1820s.
+
+## Additional reading
+
++ [@tookeHistoryPricesVol1838] [link](http://archive.org/details/in.ernet.dli.2015.42727) read pp. 148 to 171.
++ [@nealFinancialCrisis18251998] [link](https://research.stlouisfed.org/publications/review/1998/05/01/the-financial-crisis-of-1825-and-the-restructuring-of-the-british-financial-system/)
++ [@pettisVolatilityMachineEmerging2001] [link](https://ebookcentral.proquest.com/lib/kcl/reader.action?docID=431191&ppg=72) Chapter 4
++ [@marichalsalinasCenturyDebtCrises1989] Ch. 1 & 2
 

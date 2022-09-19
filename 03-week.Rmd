@@ -1,16 +1,15 @@
-# The London Stock Exchange in the 19th century
+# The London Stock Exchange Archive Visit
 
-## General readings
+We will be visiting Guildhall library for a visit to the London Stock Exchange archive as well as other useful and important resources for business and economic historians. Our visit will take place at 10:30 am at Guildhall Library. Please arrive early.
 
-+ [@taylorOutsideLondonStock2020] [link](https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article)
-+ [@nealEvolutionStructurePerformance2006] [link](https://www.jstor.org/stable/41378447)
+In preparation for the visit it would be good to read Morgan & Thomas for background and I would also like you to look at the rules and regulations of the exchange in 1847 which will help you to understand the structure of the exchange *and* the structure of the archive we will be visiting.
+
+To see where the LSE fits in more broadly read Taylor's article on LSE vs outside brokers and look at the polemic against the LSE brokers written by Mortimer.
+
 + [@morganStockExchangeIts1969] read Chapter 4 "The Development of an Organized Market"
++ [@taylorOutsideLondonStock2020] [link](https://www.cambridge.org/core/product/identifier/S1467222720000233/type/journal_article) on outside brokers vs LSE brokers
 
 ## Primary sources
 
-I want you to compare and contrast the Rules and Regulations as they were codified in 1812
-versus in 1847.
-
-+ [@RulesRegulationsAdopted1812] [link](https://archive.org/details/rulesregulations00stocuoft)
 + [@RegulationsAdoptedCommittee1847] [link](https://books.googleusercontent.com/books/content?req=AKW5QacIwGHn20rqReIgbN_oGOc_Bt_fW8pdyKxlC09bYAwX3XOssxwTJthFknFUu177BshL5JA8J1ucpjgn-uh2dXpeFeh-fqGdtWZ5D2ixh8Chcrd2wMpyEvEu_l-q5MOwUlpf6GpNjNTpNqwchxfjJ5obkjQCB7thIA9SKnNwpipN0vbYcNRrLG2SClz9MGFKNqf6Z-mqLcRgmOqsko4l53FEfrySnoAnBje8jRT1IqCHzSPXo3juEpnzfEoqiD48Im02BSBkdFqLIDlDiYoXmyDe_RHbOK8c2nBL7rSykitTvXA6mvk)
 + [@mortimerEveryManHis1807] [link](https://link.gale.com/apps/doc/U0103061473/MOME?u=ull_ttda&sid=MOME&xid=162e645a) read the Preface and Chapter III.

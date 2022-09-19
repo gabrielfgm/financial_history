@@ -1,13 +1,27 @@
-# The London money market and the crisis of 1866
+# Foreign Lending and The Baring Crisis
 
 ## General readings
 
-+ [@bignonBagehotBeginnersMaking2012] [link](https://doi.org/10.1111/j.1468-0289.2011.00606.x)
-+ [@xuReshapingGlobalTrade2020] [link](https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf) You can listen to the author discuss her paper [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
-+ For background on the functioning of trade-finance please read this brief article [@accominottiRobustMoneyMarkets2020] [link](https://voxeu.org/article/robust-money-markets)
++ [@floresInformationAsymmetriesConflict2011] [link](https://www.cambridge.org/core/article/information-asymmetries-and-conflict-of-interest-during-the-baring-crisis-188018901/F7A751A4AC3D90669DFD370A387D3E9C)
++ [@dellapaoleraMonetaryFinancialWreck2001] [link](https://www.nber.org/chapters/c8837.pdf)
+
 
 ## Primary sources
 
-+ [@bagehotLombardStreetDescription1873]
-+ [@Panic1866] [link](https://link.gale.com/apps/doc/GP4100418639/ECON?u=kings&sid=ECON&xid=4a302558)
-+ Go to either the [Economist Historical Archive](https://go.gale.com/ps/i.do?p=ECON&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=ECON) or the [Times Digital Archive](https://go.gale.com/ps/start.do?p=TTDA&u=kings) and find an article covering the panic.
+We will be looking at the Barings Archive for sources on the
+Argentine crisis of 1890. In addition to the below, you will go
+to the [online holdings of the Barings Archive](https://baring.access.preservica.com/archive/) and select
+2 documents of your choice. This will likely involve a lot of
+searching. There is correspondance in French (Barings to Argentine
+Government), Spanish (Argentine Government to Barings), and 
+German (consortium banks to Barings) in addition to English 
+so feel free to make use of any special language skills if you
+like.
+
++ [@CorrespondenceDiscontoGesellschaft] [link](https://baring.access.preservica.com/uncategorized/IO_b436c123-97cd-42f2-a3c7-aed0cdbbffec/?view=gallery)
++ [@SchemeConversionArgentine1888] [link](https://baring.access.preservica.com/uncategorized/IO_baeb649b-dbe3-46c5-9d0c-afb75887c7a2/)
++ [@ProposalArgentineGovernment] [link](https://baring.access.preservica.com/uncategorized/IO_fabf01ef-16ac-4d52-80f6-8ed5a8add171/?view=gallery)
++ [@CorrespondenceGeorgeWhite] [link](https://baring.access.preservica.com/uncategorized/SO_4177cba6-61a1-46a7-8c10-148bf2e2d464/)
++ [@TelegramDiscontoGesellschaft1889] [link](https://baring.access.preservica.com/uncategorized/SO_77f5601d-3087-4905-8c42-194218d3cbc2/)
++ [@DraftResponseLuis1893] [link](https://baring.access.preservica.com/uncategorized/IO_dd0844b9-214a-4f86-9cd3-ffaf91ed6e25/?view=gallery)
++ [@CorrespondanceFosterBraithwaite] [link](https://baring.access.preservica.com/uncategorized/IO_7627b2eb-bbbc-44db-9eb2-1713862658af/?view=gallery)
