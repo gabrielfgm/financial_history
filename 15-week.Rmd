@@ -1,10 +1,12 @@
-# Decolonization and the pound
+# The gold standard and the great depression
 
 ## General readings
 
-+ [@balachandranSterlingCrisisManaged1990] [link](http://journals.sagepub.com/doi/10.1177/001946469002700101)
-    - This provides some helpful insight into the use of the colonies to manage the currency. Read it if you have time.
-+ [@ogleFunkMoneyEnd2020] [link](https://doi.org/10.1093/pastj/gtaa001)
-+ [@schenkDeclineSterlingManaging2013] Chapters 2 and 3 (a bit long but a lot of graphs), pdf is on Keats
++ [@bernankeGoldStandardDeflation1990] [link](http://www.nber.org/papers/w3488.pdf)
++ [@eichengreenGoldStandardGreat2000] [link](https://www.jstor.org/stable/20081742)
 
-## No Primary Sources this week
+## Primary sources
+
+<!-- + Norman Montagu's diaries from BoE archive? -->
++ [@stampReportMacmillanCommittee1931] [link](https://doi.org/10.2307/2223900)
++ [@macmillanReportCommitteeFinance1931] [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1930-031248?accountid=11862)

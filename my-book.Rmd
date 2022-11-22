@@ -258,6 +258,10 @@ like.
 
 <!--chapter:end:08-week.Rmd-->
 
+# Class cancelled: strikes
+
+<!--chapter:end:09-week.Rmd-->
+
 # The London money market
 
 ## General readings
@@ -272,7 +276,7 @@ like.
 + [@Panic1866] [link](https://link.gale.com/apps/doc/GP4100418639/ECON?u=kings&sid=ECON&xid=4a302558)
 
 
-<!--chapter:end:09-week.Rmd-->
+<!--chapter:end:10-week.Rmd-->
 
 # Financial information in the 19th century
 
@@ -287,10 +291,6 @@ like.
 + [@duguidHowReadMoney1902] [link](https://ia802705.us.archive.org/4/items/howtoreadmoneyar00dugurich/howtoreadmoneyar00dugurich.pdf). This is a book on how to read financial coverage in 19th century newspapers written at the turn of the century. Read chapters XXIII, XXIV and XXV.
 + I want you to search the [Financial Times Historical Archive](https://go.gale.com/ps/i.do?p=FTHA&sw=w&u=kings&v=2.1&pg=BasicSearch&it=static&sid=FTHA) in its first decade, and find examples of material you believe was paid to be inserted.
 
-<!--chapter:end:10-week.Rmd-->
-
-# Dissertation chat 2
-
 <!--chapter:end:11-week.Rmd-->
 
 # International Finance and WWI
@@ -303,9 +303,20 @@ like.
 ## Primary sources
 
 + [@keynesWarFinancialSystem1914] [link](https://doi.org/10.2307/2222023)
-+ [The Bank of England 1914-21 (Unpublished War History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1) Read Vol. 4 Chapter X.
+
+## Additional primary sources
+
++ [The Bank of England 1914-21 (Unpublished War History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1) A very interesting 'secret' history written by the BoE.
 
 <!--chapter:end:12-week.Rmd-->
+
+# Bank of England Archive Trip
+
+Please meet me in front of the Bank of England on Wednesday February 1st at 10:15am for our 10:30 appointment. The appointment is scheduled to last roughly 1.5 hours although if you need to leave early let me know.
+
+The bank's address is Bank of England, Threadneedle St, London, EC2R 8AH. For this visit **please bring a valid ID** (passport or drivers license). If you anticipate trouble getting ID please let me know in advance and I will speak to the archivists.
+
+<!--chapter:end:13-week.Rmd-->
 
 # The reparations problem
 
@@ -319,7 +330,8 @@ like.
 + [@keynesEconomicConsequencesPeace2019] Read "Germany's capacity to pay", "The German Counter-Proposals", and "Remedies" [link](https://oll.libertyfund.org/title/keynes-the-economic-consequences-of-the-peace)
 + [@mantouxCarthaginianPeaceEconomic2000] Read Chapter 2 "Prophecy and Persuasion". I will put the pdf on Keats.
 
-<!--chapter:end:13-week.Rmd-->
+
+<!--chapter:end:14-week.Rmd-->
 
 # The gold standard and the great depression
 
@@ -333,19 +345,6 @@ like.
 <!-- + Norman Montagu's diaries from BoE archive? -->
 + [@stampReportMacmillanCommittee1931] [link](https://doi.org/10.2307/2223900)
 + [@macmillanReportCommitteeFinance1931] [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1930-031248?accountid=11862)
-
-<!--chapter:end:14-week.Rmd-->
-
-# Decolonization and the pound
-
-## General readings
-
-+ [@balachandranSterlingCrisisManaged1990] [link](http://journals.sagepub.com/doi/10.1177/001946469002700101)
-    - This provides some helpful insight into the use of the colonies to manage the currency. Read it if you have time.
-+ [@ogleFunkMoneyEnd2020] [link](https://doi.org/10.1093/pastj/gtaa001)
-+ [@schenkDeclineSterlingManaging2013] Chapters 2 and 3 (a bit long but a lot of graphs), pdf is on Keats
-
-## No Primary Sources this week
 
 <!--chapter:end:15-week.Rmd-->
 

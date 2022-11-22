@@ -8,4 +8,7 @@
 ## Primary sources
 
 + [@keynesWarFinancialSystem1914] [link](https://doi.org/10.2307/2222023)
-+ [The Bank of England 1914-21 (Unpublished War History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1) Read Vol. 4 Chapter X.
+
+## Additional primary sources
+
++ [The Bank of England 1914-21 (Unpublished War History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1) A very interesting 'secret' history written by the BoE.

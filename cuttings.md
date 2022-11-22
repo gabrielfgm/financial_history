@@ -27,3 +27,14 @@
 + [@spencerEssaysMoralPolitical1880] Chapter 7 "Railway Morals and Railway Policy" [link](https://archive.org/details/essaysmoralpolit00spe/page/250/mode/2up)
 + Look at the published list of companies registering as limited liability in 1855. What kinds of businesses are these? [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1856-032754?accountid=11862)
 
+# Decolonization and the pound
+
+## General readings
+
++ [@balachandranSterlingCrisisManaged1990] [link](http://journals.sagepub.com/doi/10.1177/001946469002700101)
+    - This provides some helpful insight into the use of the colonies to manage the currency. Read it if you have time.
++ [@ogleFunkMoneyEnd2020] [link](https://doi.org/10.1093/pastj/gtaa001)
++ [@schenkDeclineSterlingManaging2013] Chapters 2 and 3 (a bit long but a lot of graphs), pdf is on Keats
+
+## No Primary Sources this week
+
