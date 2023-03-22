@@ -567,9 +567,8 @@ advance and I will speak to the archivists.
 
 ## Primary sources
 
--   John Maynard Keynes, *The economic consequences of the peace*, ed.
-    Michael Cox (2019). Read “Germany’s capacity to pay,” “The German
-    Counter-Proposals,” and “Remedies”
+-   **keynesEconomicConsequencesPeace2019?** Read “Germany’s capacity to
+    pay,” “The German Counter-Proposals,” and “Remedies”
     [link](https://oll.libertyfund.org/title/keynes-the-economic-consequences-of-the-peace)
 -   Etienne Mantoux, *The Carthaginian peace* (North Stratford, N.H.:
     Ayer Co. Publishers, 2000). Read Chapter 2 “Prophecy and
@@ -577,7 +576,9 @@ advance and I will speak to the archivists.
 
 <!--chapter:end:14-week.Rmd-->
 
-# The gold standard and the great depression
+# <s>The gold standard and the great depression</s>
+
+-   Cancelled due to strike!
 
 ## General readings
 
@@ -620,9 +621,8 @@ advance and I will speak to the archivists.
 
 ## Additional reading
 
--   Michel J. Oliver and Arran Hamilton, “Downhill from Devaluation,”
-    *The Economic History Review* (\[Economic History Society, Wiley\],
-    2007), 60: 3, 486–512. [link](www.jstor.org/stable/4502107)
+-   **michelj.oliverDownhillDevaluationBattle2007?**
+    [link](www.jstor.org/stable/4502107)
 -   Susan Strange, “Sterling and British Policy,” *International
     Affairs* (April 1971), 47: 2, 302–315.
     [link](https://doi.org/10.2307/2613930)
@@ -689,7 +689,9 @@ advance and I will speak to the archivists.
 
 <!--chapter:end:18-week.Rmd-->
 
-# The Great Recession: transatlantic flows and mortgage mania
+# <s>The Great Recession: transatlantic flows and mortgage mania</s>
+
+-   Cancelled due to strike!
 
 ## General readings
 
@@ -723,6 +725,14 @@ advance and I will speak to the archivists.
     1, 41.
     [link](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.23.1.3)
 
+## Background reading
+
+-   J. Adam Tooze, *Crashed* (Allen Lane, 2018). ch. 1 “The Wrong
+    Crisis” and ch. 3 “Transatlantic Finance” (If you have time the
+    intro and Ch. 2 as well.)
+-   William Quinn and John D. Turner, *Boom and Bust* (Cambridge:
+    Cambridge University Press, 2020).
+
 ## Primary sources
 
 <!-- + Congressional testimony on CSPAN -->
@@ -732,6 +742,10 @@ advance and I will speak to the archivists.
 -   Andrew G. Haldane, “Banking on the state,” 20.
     [link](https://www.bis.org/review/r091111e.pdf) Paper by Executive
     Director, Financial Stability at Bank of England
+-   *The Financial Crisis Inquiry Report*, *The Financial Crisis Inquiry
+    Report* (February 2011).
+    [link](https://www.govinfo.gov/app/details/GPO-FCIC) Read Chapter 19
+    “SEPTEMBER 2008: THE BAILOUT OF AIG”
 
 <!--chapter:end:20-week.Rmd-->
 
