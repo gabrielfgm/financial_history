@@ -165,7 +165,7 @@ examination, and the other leading to a dissertation.
     -   I need to get your last essays at least 3 weeks before the exam
         if you want my feedback in time.
 
-# How to write a gobbet
+## How to write a gobbet
 
 A gobbet is a short commentary on an excerpt from a primary source. You
 should typically write 2 paragraphs (about 500-700 words).
@@ -452,6 +452,10 @@ special language skills if you like.
 
 <!--chapter:end:08-week.Rmd-->
 
+# Class cancelled: strikes
+
+<!--chapter:end:09-week.Rmd-->
+
 # The London money market
 
 ## General readings
@@ -460,9 +464,9 @@ special language skills if you like.
     beginners,” *The Economic History Review* (John Wiley & Sons, Ltd,
     May 2012), 65: 2, 580–608.
     [link](https://doi.org/10.1111/j.1468-0289.2011.00606.x)
--   Chenzi Xu, “Reshaping Global Trade,” *Working Paper* (May 2020), 54.
-    [link](https://chenzi-xu.com/docs/reshaping_global_trade_Xu.pdf) You
-    can listen to the author discuss her paper
+-   Chenzi Xu, “RESHAPING GLOBAL TRADE,” *THE QUARTERLY JOURNAL OF
+    ECONOMICS*, 55. [link](https://doi.org/10.1093/qje/qjac016) You can
+    listen to the author discuss her paper
     [here](https://www.tradetalkspodcast.com/podcast/138-trade-and-the-worst-financial-crisis-of-the-century-in-1866/).
 -   Olivier Accominotti, Delio Lucena-Piquero, and Stefano Ugolini, “The
     origination and distribution of money market instruments,” *The
@@ -477,7 +481,7 @@ special language skills if you like.
 -   “The Panic,” *The Economist* (May 1866), 024: 1186, 581+.
     [link](https://link.gale.com/apps/doc/GP4100418639/ECON?u=kings&sid=ECON&xid=4a302558)
 
-<!--chapter:end:09-week.Rmd-->
+<!--chapter:end:10-week.Rmd-->
 
 # Financial information in the 19th century
 
@@ -507,10 +511,6 @@ special language skills if you like.
     in its first decade, and find examples of material you believe was
     paid to be inserted.
 
-<!--chapter:end:10-week.Rmd-->
-
-# Dissertation chat 2
-
 <!--chapter:end:11-week.Rmd-->
 
 # International Finance and WWI
@@ -531,11 +531,27 @@ special language skills if you like.
 -   J. M. Keynes, “War and the Financial System, August, 1914,” *The
     Economic Journal* (September 1914), 24: 95, 460–486.
     [link](https://doi.org/10.2307/2222023)
+
+## Additional primary sources
+
 -   [The Bank of England 1914-21 (Unpublished War
     History)](https://www.bankofengland.co.uk/archive/bank-of-england-1914-21-ww1)
-    Read Vol. 4 Chapter X.
+    A very interesting ‘secret’ history written by the BoE.
 
 <!--chapter:end:12-week.Rmd-->
+
+# Bank of England Archive Trip
+
+Please meet me in front of the Bank of England on Wednesday February 1st
+at 10:15am for our 10:30 appointment. The appointment is scheduled to
+last roughly 1.5 hours although if you need to leave early let me know.
+
+The bank’s address is Bank of England, Threadneedle St, London, EC2R
+8AH. For this visit **please bring a valid ID** (passport or drivers
+license). If you anticipate trouble getting ID please let me know in
+advance and I will speak to the archivists.
+
+<!--chapter:end:13-week.Rmd-->
 
 # The reparations problem
 
@@ -559,7 +575,7 @@ special language skills if you like.
     Ayer Co. Publishers, 2000). Read Chapter 2 “Prophecy and
     Persuasion.” I will put the pdf on Keats.
 
-<!--chapter:end:13-week.Rmd-->
+<!--chapter:end:14-week.Rmd-->
 
 # The gold standard and the great depression
 
@@ -585,31 +601,24 @@ special language skills if you like.
     finance and industry* (1931), 329.
     [link](https://parlipapers.proquest.com/parlipapers/docview/t70.d75.1930-031248?accountid=11862)
 
-<!--chapter:end:14-week.Rmd-->
-
-# Decolonization and the pound
-
-## General readings
-
--   G. Balachandran, “The sterling crisis and the managed float regime
-    in India, 1921-1924,” *The Indian Economic & Social History Review*
-    (March 1990), 27: 1, 1–31.
-    [link](http://journals.sagepub.com/doi/10.1177/001946469002700101)
-    -   This provides some helpful insight into the use of the colonies
-        to manage the currency. Read it if you have time.
--   Vanessa Ogle, “‘Funk Money’,” *Past & Present* (August 2020),
-    gtaa001. [link](https://doi.org/10.1093/pastj/gtaa001)
--   Catherine R Schenk, *The decline of sterling* (Cambridge: Cambridge
-    Univ. Press, 2013). Chapters 2 and 3 (a bit long but a lot of
-    graphs), pdf is on Keats
-
-## No Primary Sources this week
-
 <!--chapter:end:15-week.Rmd-->
 
 # The Bank of England and crises in the 1970s
 
 ## General readings
+
+-   Margaret Reid, *The secondary banking crisis, 1973-75* (London:
+    Hindsight Books, 2003). Read chapters 1,2 and 3
+
+## Primary sources
+
+-   “Oral Histories | Centre for Financial History.”
+    [link](https://www.centreforfinancialhistory.org/oral-histories/)
+    -   These are a series of interviews with participants in the
+        ‘Lifeboat Operation.’ There are 5 interviews and we will divide
+        up who covers them in Week 15.
+
+## Additional reading
 
 -   Michel J. Oliver and Arran Hamilton, “Downhill from Devaluation,”
     *The Economic History Review* (\[Economic History Society, Wiley\],
@@ -620,14 +629,8 @@ special language skills if you like.
 -   C Dow, *Inside the bank of england* (Palgrave Macmillan, 2014).
     Chapter 1
     -   This is more like a primary source. PDF on Keats.
-
-## Primary sources
-
--   “Oral Histories | Centre for Financial History.”
-    [link](https://www.centreforfinancialhistory.org/oral-histories/)
-    -   These are a series of interviews with participants in the
-        ‘Lifeboat Operation.’ There are 5 interviews and we will divide
-        up who covers them in Week 15.
+-   Bank of England, “The secondary banking crisis and the Bank of
+    England’s support operations,” *Quarterly Bulletin* (1978), Q2.
 
 <!--chapter:end:16-week.Rmd-->
 
